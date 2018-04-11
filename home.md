@@ -1,5 +1,5 @@
 ---
-title: North Hills Christian Church
+title: Home
 permalink: "/"
 layout: home-page
 ---
