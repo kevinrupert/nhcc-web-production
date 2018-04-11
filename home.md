@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-about blurb: Testing
+about blurb: Let's party man.
 layout: home-page
 ---
 
