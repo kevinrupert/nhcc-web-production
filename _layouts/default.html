@@ -14,6 +14,22 @@
     <script media="all" src="js/jquery-3.2.1.min.js"></script>
     <script media="all" src="js/jquery.waypoints.min.js"></script>
     <script media="all" src="js/main.js"></script>
+    <script>
+      function initMap() {
+        var uluru = {lat: 40.550440018509676, lng: -79.99786697222888};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 18,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaeeipSEjg5rOW11Ez9BGxAVl8jAaKG3E&callback=initMap">
+    </script>
   </body>
 
 </html>
