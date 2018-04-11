@@ -1,38 +1,50 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+<footer>
+  <div class="newsletter">
+    <h2 class="title-3">Sign up for our newsletter.</h2>
+    <div class="sign-up">
+      <input type="text" name="email" placeholder="Email" required>
+      <a class="button" href="#">Sign up</a>
+    </div>
+  </div>
+  <div class="contact">
+    <div class="text">
+      <div class="container">
+        <h3 class="title-2">We meet Sundays <br />at 10am.</h3>
+        <div class="bar"></div>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="contact-info mar-top-48">
+        <p class="regular">
+          778 Thompson Run Rd, <br />Pittsburgh, PA 15237
+        </p>
+        <p class="regular mar-top-48">
+          hi@northhillschristian.church
+        </p>
+        <p class="regular">
+          (412) 478-2398
+        </p>
       </div>
     </div>
-
+    <div class="map">
+    </div>
   </div>
-
+  <div class="links">
+    <ul class="nav">
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/community.html">Community</a></li>
+      <li><a href="/family.html">Family</a></li>
+      <li><a href="/events.html">Events</a></li>
+    </ul>
+    <div class="social">
+      <div class="icon">
+        <a href="#" target="_blank">
+          <img src="imgs/instagram.svg" />
+        </a>
+      </div>
+      <div class="icon">
+        <a href="#" target="_blank">
+          <img src="imgs/facebook.svg" />
+        </a>
+      </div>
+    </div>
+  </div>
 </footer>
