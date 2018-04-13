@@ -27,7 +27,7 @@ layout: default
                 {{ item.speaker }}
               </p>
               <p class="regular date">
-                {{ item.sermon_date }}
+                {{ item.sermon_date | date: "%b %d, %Y"}}
               </p>
               </div>
             </div>
