@@ -11,7 +11,7 @@ layout: default
 
     <div class="sermons-grid">
       <div class="container">
-        {% for item in site.sermon_library %}
+        {% for item in site.sermon_library | sort:"position" %}
           <div class="sermon">
             <div class="media">
               <div class="media-wrapper">
