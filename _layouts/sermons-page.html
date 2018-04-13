@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+    <div class="page-title">
+      <div class="max-width-container">
+        <h1 class="title-2">Sermons</h1>
+        <div class="bar"></div>
+      </div>
+    </div>
+
+    <div class="sermons-grid">
+      <div class="container">
+        <div class="sermon">
+          <div class="media">
+            <div class="youtube-wrapper">
+              <iframe src="https://www.youtube.com/embed/erLHQ8SkNYE?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="info">
+            <h3 class="title-3">
+              {% for item in site.sermons %}
+                {{ item.title }}
+              {% endfor %}
+            </h3>
+            <div class="details">
+            <p class="regular speaker">
+              Nate Kline
+            </p>
+            <p class="regular date">
+              March 11, 2018
+            </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
