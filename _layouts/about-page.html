@@ -33,7 +33,7 @@ layout: default
               <img src="imgs/about.jpg" />
             </div>
             <div class="text">
-              {{ page['sundays_text'] }}
+              {{ page.sundays_text | markdownify }}
             </div>
           </div>
           <div class="section sermons">
