@@ -9,3 +9,4 @@ sundays text: |-
   Sundays also provide an opportunity for our Kids and Students to learn and serve. Our dedicated staff and volunteers have tailored a worship experience that is engaging and safe for the whole family.
 layout: about-page
 ---
+
