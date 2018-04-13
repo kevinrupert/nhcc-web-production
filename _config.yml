@@ -2,11 +2,10 @@
 title: North Hills Christian Church
 timezone: UTC
 collections:
+  sermons:
+    output: false
   posts:
     title: Posts
-    output: true
-  sermons:
-    title: Sermons
     output: true
   uploads:
     title: Uploads
@@ -17,7 +16,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: 
+baseurl:
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
