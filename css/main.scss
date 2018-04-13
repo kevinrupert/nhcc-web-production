@@ -957,6 +957,10 @@ footer {
       .text {
         p {
           margin-top: 24px;
+          @extend .regular;
+          &:first-child {
+            margin-top: 0;
+          }
         }
       }
     }
