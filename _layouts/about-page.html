@@ -30,10 +30,10 @@ layout: default
           <div class="section sundays">
             <h2 class="title-1">Sundays</h2>
             <div class="image">
-              <img src="imgs/about.jpg" />
+              <img src="{{ page['sundays image'] }}" />
             </div>
             <div class="text">
-              {{ page.sundays_text | markdownify }}
+              {{ page['sundays text'] | markdownify }}
             </div>
           </div>
           <div class="section sermons">
