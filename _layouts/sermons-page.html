@@ -12,26 +12,7 @@ layout: default
     <div class="sermons-grid">
       <div class="container">
         {% for item in site.sermon_libary %}
-          <div class="sermon">
-            <div class="media">
-              <div class="youtube-wrapper">
-                <iframe src="https://www.youtube.com/embed/erLHQ8SkNYE?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-              </div>
-            </div>
-            <div class="info">
-              <h3 class="title-3">
-                {{ item.title }}
-              </h3>
-              <div class="details">
-              <p class="regular speaker">
-                {{ item.speaker }}
-              </p>
-              <p class="regular date">
-                {{ item.sermon_date }}
-              </p>
-              </div>
-            </div>
-          </div>
+          {{ item.speaker }}
         {% endfor %}
       </div>
     </div>
