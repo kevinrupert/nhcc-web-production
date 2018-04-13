@@ -10,7 +10,7 @@ layout: default
   <h1 class="title-1 animate-fade-up">Families <br />following Jesus.</h1>
   <div class="get-directions animate-fade-up delay-2">
     <p class="regular">
-      We meet Sundays at 10am.
+      We meet Sundays at {{ site.service_time }}.
     </p>
     <p class="regular mar-top-8">
       <a href="#" target="_blank">Get Directions</a>
@@ -63,7 +63,7 @@ layout: default
         <div class="animation-group">
           <h2 class="title-2">Community</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            Following Jesus includes serving His community both locally and globally.
+            {{ page['community blurb'] }}
           </p>
           <div class="animate-fade-up delay-2">
             <a class="button mar-top-16" href="/community.html">Learn More</a>
@@ -86,7 +86,7 @@ layout: default
         <div class="animation-group">
           <h2 class="title-2">Family</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            Following Jesus includes every stage of life.
+            {{ page['family blurb'] }}
           </p>
           <div class="animate-fade-up delay-2">
             <a class="button mar-top-16" href="/family.html">Learn More</a>
@@ -109,7 +109,7 @@ layout: default
         <div class="animation-group">
           <h2 class="title-2">Events</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            Following Jesus means being around people who are like Jesus.
+            {{ page['events blurb'] }}
           </p>
           <div class="animate-fade-up delay-2">
             <a class="button mar-top-16" href="/events.html">Learn More</a>
