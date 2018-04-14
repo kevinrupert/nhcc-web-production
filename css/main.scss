@@ -1267,7 +1267,7 @@ footer {
   .container {
     width: 100%;
     @include breakpoint(large-screen-up) {
-      // max-width: 800px;
+      max-width: 1200px;
       display: flex;
       flex-wrap: wrap;
     }
