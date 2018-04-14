@@ -1259,7 +1259,7 @@ footer {
   margin-top: -32px;
   @include breakpoint(large-screen-up) {
     margin-top: 0;
-    padding: 100px;
+    padding: 100px 0;
     box-sizing: border-box;
     display: flex;
     justify-content: center;
