@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: "/"
+position: 2
 layout: home-page
 About headline: We’re making Jesus followers of the whole family through gathering,
   learning and serving.
