@@ -21,14 +21,14 @@ layout: default
                 {{ item['event date'] | date: "%b" }}
               </p>
               <p class="day">
-                {{ item['event date'] | date: "%d" }}
+                {{ item['event date'] | date: "%e" }}
               </p>
             </div>
           </div>
           <div class="text">
             <h2 class="title-3">{{ item.title}}</h2>
             <p class="regular mar-top-8">
-              {{ item['event date'] | date: "%A, %B %d at %l%P"}}
+              {{ item['event date'] | date: "%A, %B %e at %l%P"}}
             </p>
             <div class="description">
               {{ item.content | markdownify }}
