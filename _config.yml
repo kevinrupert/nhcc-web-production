@@ -2,9 +2,6 @@
 title: North Hills Christian Church
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   sermon_library:
     title: Sermons
     output: false
