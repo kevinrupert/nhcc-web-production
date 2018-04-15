@@ -56,11 +56,11 @@ layout: default
           <div class="section history">
             <h2 class="title-1">History <br />& Beliefs</h2>
             <div class="image">
-              <img src="imgs/history.jpg" />
+              <img src="{{ page['history image'] }}" />
             </div>
             <div class="text">
               <p class="regular">
-                {{ page['history text'] | markdownify }}
+                {{ page['history text'] }}
               </p>
               <ul class="beliefs">
                 {% for item in page.beliefs | sort:"position" %}
@@ -79,32 +79,21 @@ layout: default
           <div class="section team">
             <h2 class="title-1">Team</h2>
             <div class="team-list">
+              {% for item in site.team | sort:"position" %}
               <div class="team-member">
                 <div class="portrait">
-                  <img class="portrait-image" src="imgs/portrait.jpg" />
+                  <img class="portrait-image" src="{{ item.image }}" />
                   <a class="email-button"><img src="imgs/email-icon.svg" /></a>
                 </div>
                 <div class="bio">
-                  <h3 class="title-3">Don Swingle, Jr.</h3>
-                  <p class="regular">Senior Minister</p>
+                  <h3 class="title-3">{{ item.name }}.</h3>
+                  <p class="regular">{{ item.title }}</p>
                   <p class="regular bio-text">
-                    Don has been Senior Minister since April 2010.  He serves with more than four decades of ministry experience, including Christian television, and former churches in Texas and Florida. Education includes doctorate and master degrees from Trinity Theological Seminary and a bachelor degree from Ozark Christian College. Don is married with two adult children and one grandchild.
+                    {{ item.bio }}
                   </p>
                 </div>
               </div>
-              <div class="team-member">
-                <div class="portrait">
-                  <img class="portrait-image" src="imgs/portrait.jpg" />
-                  <a class="email-button"><img src="imgs/email-icon.svg" /></a>
-                </div>
-                <div class="bio">
-                  <h3 class="title-3">Don Swingle, Jr.</h3>
-                  <p class="regular">Senior Minister</p>
-                  <p class="regular bio-text">
-                    Don has been Senior Minister since April 2010.  He serves with more than four decades of ministry experience, including Christian television, and former churches in Texas and Florida. Education includes doctorate and master degrees from Trinity Theological Seminary and a bachelor degree from Ozark Christian College. Don is married with two adult children and one grandchild.
-                  </p>
-                </div>
-              </div>
+              {% endfor %}
             </div>
           </div>
           <div class="section faq">
