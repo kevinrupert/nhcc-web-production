@@ -43,6 +43,5 @@ faq:
     autonomous, non-denominational congregation of all backgrounds, but we are associated
     with nearly 5,000 other Christian Churches/Churches of Christ across the world
     that share similar beliefs and practices.
-layout: about-page
+layout: about
 ---
-

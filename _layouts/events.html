@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+    <div class="page-title">
+      <div class="max-width-container">
+        <h1 class="title-2">Events</h1>
+        <div class="bar"></div>
+      </div>
+    </div>
+
+    <div class="events-grid">
+      <div class="container">
+        {% for item in site.events | sort:"position" %}
+        <div class="event">
+          <div class="image">
+            <img src="{{ item.image }}" />
+            <div class="date">
+              <p class="month">
+                {{ item.date | date: "%b" }}
+              </p>
+              <p class="day">
+                {{ item.date | date: "%d" }}
+              </p>
+            </div>
+          </div>
+          <div class="text">
+            <h2 class="title-3">{{ item.title}}</h2>
+            <p class="regular mar-top-8">
+              {{ item.sermon_date | date: "%B %d, %Y, %k %p"}}
+            </p>
+            <p class="regular mar-top-24">
+              {{ item.content }}
+            </p>
+            <a class="button mar-top-24" href="{{ item['sign up'] }}">Sign Up</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
