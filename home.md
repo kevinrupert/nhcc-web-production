@@ -10,3 +10,4 @@ Community headline: Following Jesus includes serving His community both locally 
 Family headline: Following Jesus includes every stage of life.
 Events headline: Following Jesus means being around people who are like Jesus.
 ---
+
