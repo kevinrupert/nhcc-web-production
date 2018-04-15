@@ -11,7 +11,7 @@ layout: default
 
     <div class="events-grid">
       <div class="container">
-        {% assign sorted_events = site.events | sort:"position" %}
+        {% assign sorted_events = site.events | sort:"event date" %}
         {% for item in sorted_events %}
         <div class="event">
           <div class="image">

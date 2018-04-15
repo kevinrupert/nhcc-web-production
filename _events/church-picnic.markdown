@@ -5,4 +5,3 @@ position: 2
 image: "/uploads/about.jpg"
 event date: 2018-04-17 12:00:00 Z
 ---
-
