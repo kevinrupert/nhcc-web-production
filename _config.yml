@@ -38,7 +38,7 @@ defaults:
     type: events
   values:
     image: ''
-    date: ''
+    event date: ''
     sign up: ''
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
