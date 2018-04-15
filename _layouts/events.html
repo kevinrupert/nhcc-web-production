@@ -11,8 +11,7 @@ layout: default
 
     <div class="events-grid">
       <div class="container">
-       {% assign sorted_events = site.events | sort: "meta['event date']" | reverse %}
-        {% for item in sorted_events %}
+        {% for item in site.events | sort:"position" %}
         <div class="event">
           <div class="image">
             <img src="{{ item.image }}" />
