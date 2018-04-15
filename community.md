@@ -1,7 +1,7 @@
 ---
 title: Community
 permalink: "/community"
-position: 1
+position: 2
 layout: community
 ---
 
