@@ -63,7 +63,7 @@ layout: default
                 {{ page['history text'] }}
               </p>
               <ul class="beliefs">
-                {% for item in page.beliefs | sort:"position" %}
+                {% for item in page.beliefs %}
                 <li>
                   <p class="regular number">
                     {{ item.number }}
@@ -79,7 +79,8 @@ layout: default
           <div id="team" class="section team">
             <h2 class="title-1">Team</h2>
             <div class="team-list">
-              {% for item in site.team_members | sort:"position" %}
+              {% assign sorted_team = site.team_members | sort:"position" %}
+              {% for item in sorted_team %}
               <div class="team-member">
                 <div class="portrait">
                   <img class="portrait-image" src="{{ item.image }}" />
@@ -99,7 +100,8 @@ layout: default
           <div id="faq" class="section faq">
             <h2 class="title-1">FAQ</h2>
             <ul class="faq-list">
-              {% for item in page.faq | sort:"position" %}
+              {% assign sorted_faq = page.faq | sort:"position" %}
+              {% for item in sorted_faq %}
               <li>
                 <p class="title-3">
                   {{ item.question }}
