@@ -11,9 +11,11 @@ sundays text: |-
 history text: 'NHCC was started in 1960 with just a few members and over the next
   six decades has grown into the church it is today. This is what NHCC believes:'
 beliefs:
-- 'In one God, eternally existent in three persons: Father, Son and Holy Spirit (1
-  Cor 8:6; Matt 28:19-20; Eph 4:4-6)'
-- The Bible is the Word of God. (2 Tim 3:15-17; 2 Peter 1:19-21)
+- number: '1.'
+  description: 'In one God, eternally existent in three persons: Father, Son and Holy
+    Spirit (1 Cor 8:6; Matt 28:19-20; Eph 4:4-6)'
+- number: '1.'
+  description: The Bible is the Word of God. (2 Tim 3:15-17; 2 Peter 1:19-21)
 layout: about-page
 ---
 
