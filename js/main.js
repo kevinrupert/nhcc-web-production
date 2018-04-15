@@ -59,13 +59,6 @@ $('.events').waypoint(function (direction) {
     }
 }, {offset: '30%' });
 
-// $('.page-title').waypoint(function (direction) {
-//     if (direction == 'down') {
-//         $('.about-nav, .about-sections, .overlay').addClass('stick');
-//     } else {
-//         $('.about-nav, .about-sections, .overlay').removeClass('stick');
-//     }
-// }, {offset: '-16px' });
 
 if( $(window).width() < 900 ) {
   $('.page-title').waypoint(function (direction) {
@@ -75,6 +68,12 @@ if( $(window).width() < 900 ) {
           $('.about-nav, .about-sections, .overlay').removeClass('stick');
       }
   }, {offset: '-16px' });
+  var scroll = new SmoothScroll('a[href*="#"]', {
+  	// Speed & Easing
+  	speed: 500, // Integer. How fast to complete the scroll in milliseconds
+  	offset: 150, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
+  	easing: 'easeInOutCubic', // Easing pattern to use
+  });
 }
 
 if( $(window).width() >= 900 ) {
@@ -85,12 +84,10 @@ if( $(window).width() >= 900 ) {
           $('.about-nav, .about-sections, .overlay').removeClass('stick');
       }
   }, {offset: '-22px' });
+  var scroll = new SmoothScroll('a[href*="#"]', {
+  	// Speed & Easing
+  	speed: 500, // Integer. How fast to complete the scroll in milliseconds
+  	offset: 32, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
+  	easing: 'easeInOutCubic', // Easing pattern to use
+  });
 }
-
-// $('.about-sections').waypoint(function (direction) {
-//     if (direction == 'down') {
-//         $('.about-nav').addClass('fade');
-//     } else {
-//         $('.about-nav').removeClass('fade');
-//     }
-// }, {offset: 'bottom-in-view' });

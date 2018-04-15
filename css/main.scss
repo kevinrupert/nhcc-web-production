@@ -524,6 +524,10 @@ header {
 
 footer {
   margin-top: 48px;
+  @include breakpoint(large-screen-up) {
+    z-index: 1;
+    position: relative;
+  }
   .newsletter {
     padding: 32px;
     margin-bottom: -60px;
@@ -838,8 +842,9 @@ footer {
     &.stick {
       position: fixed;
       top: 156px;
+      z-index: 0;
       // margin-top: 76px;
-      z-index: -10;
+      // z-index: -10;
     }
     // &.fade {
     //   opacity: 0;
