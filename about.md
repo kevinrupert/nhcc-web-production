@@ -35,6 +35,12 @@ beliefs:
   description: 'We believe that the New Testament gives us a pattern for salvation,
     and we practice this for membership. (Rom 10:17; John 3:15-16; Acts 2:38; Rom
     10:9-10; Romans 6:1-8; Romans 1:17; 2 Pet 3:18) '
+faq:
+- question: Are you a part of any denomination?
+  answer: No. We do not have a governing body, dioceses or presbytery. NHCC is an
+    autonomous, non-denominational congregation of all backgrounds, but we are associated
+    with nearly 5,000 other Christian Churches/Churches of Christ across the world
+    that share similar beliefs and practices.
 layout: about-page
 ---
 
