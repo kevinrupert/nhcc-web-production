@@ -27,6 +27,7 @@ defaults:
     path: ''
     type: team_members
   values:
+    content: false
     role: ''
     bio text: ''
     image: ''
