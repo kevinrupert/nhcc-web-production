@@ -17,17 +17,17 @@ layout: default
             <img src="{{ item.image }}" />
             <div class="date">
               <p class="month">
-                {{ item.date | date: "%b" }}
+                {{ item['event date'] | date: "%b" }}
               </p>
               <p class="day">
-                {{ item.date | date: "%d" }}
+                {{ item['event date'] | date: "%d" }}
               </p>
             </div>
           </div>
           <div class="text">
             <h2 class="title-3">{{ item.title}}</h2>
             <p class="regular mar-top-8">
-              {{ item.date | date: "%A, %B %d at %I%P"}}
+              {{ item['event date'] | date: "%A, %B %d at %l%P"}}
             </p>
             <div class="description">
               {{ item.content | markdownify }}
