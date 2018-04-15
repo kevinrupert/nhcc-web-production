@@ -3,7 +3,7 @@ title: 'Backpack Initiative: Packing Night'
 date: 2018-04-15 19:26:00 Z
 tags:
 - family
-position: 0
+position: 1
 image: "/uploads/backpack.jpg"
 event date: 2018-04-19 18:30:00 Z
 sign up: https://www.eventbrite.com/e/nhcc-students-late-night-party-tickets-44105911970
