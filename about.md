@@ -8,7 +8,8 @@ sundays text: |-
   On Sundays our entire church family gathers to worship through song; learn from the teachings of the Bible; partake in communion; give to the church and those in need through our offering; and serve wherever we might be needed.
 
   Sundays also provide an opportunity for our Kids and Students to learn and serve. Our dedicated staff and volunteers have tailored a worship experience that is engaging and safe for the whole family.
-history text: 
+history text: 'NHCC was started in 1960 with just a few members and over the next
+  six decades has grown into the church it is today. This is what NHCC believes:'
 beliefs:
 - 'In one God, eternally existent in three persons: Father, Son and Holy Spirit (1
   Cor 8:6; Matt 28:19-20; Eph 4:4-6)'
