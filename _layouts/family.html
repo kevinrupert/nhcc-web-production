@@ -20,14 +20,14 @@ layout: default
           <div class="text">
             {{ page['Kids text'] | markdownify }}
           </div>
-          <a class="button mar-top-24" href="mailto:{{ page['Kids email a question'] }}">Ask a Question</a>
+          <a class="button mar-top-24" href="{{ page['Kids email a question'] }}">Ask a Question</a>
         </div>
         <div class="students">
           <h2 class="title-3">Students</h2>
           <div class="text">
             {{ page['Students text'] | markdownify }}
           </div>
-          <a class="button mar-top-24" href="mailto:{{ page['Students email a question'] }}">Ask a Question</a>
+          <a class="button mar-top-24" href="{{ page['Students email a question'] }}">Ask a Question</a>
         </div>
       </div>
     </div>
