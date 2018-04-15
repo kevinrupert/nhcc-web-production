@@ -99,22 +99,16 @@ layout: default
           <div class="section faq">
             <h2 class="title-1">FAQ</h2>
             <ul class="faq-list">
+              {% for item in page.faq | sort:"position" %}
               <li>
                 <p class="title-3">
-                  Are you a part of any denomination?
+                  {{ item.question }}
                 </p>
                 <p class="regular mar-top-24">
-                  No. We do not have a governing body, dioceses or presbytery. NHCC is an autonomous, non-denominational congregation of all backgrounds, but we are associated with nearly 5,000 other Christian Churches/Churches of Christ across the world that share similar beliefs and practices.
+                  {{ item.answer }}
                 </p>
               </li>
-              <li>
-                <p class="title-3">
-                  Do I need to dress up?
-                </p>
-                <p class="regular mar-top-24">
-                  No. NHCC offers a casual worship service. We encourage everyone to come with a cup of your favorite drink--or have one of ours--and wear whatever makes you feel comfortable.
-                </p>
-              </li>
+              {% endfor %}
             </ul>
           </div>
         </div>
