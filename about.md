@@ -14,8 +14,27 @@ beliefs:
 - number: '1.'
   description: 'In one God, eternally existent in three persons: Father, Son and Holy
     Spirit (1 Cor 8:6; Matt 28:19-20; Eph 4:4-6)'
-- number: '1.'
+- number: '2.'
   description: The Bible is the Word of God. (2 Tim 3:15-17; 2 Peter 1:19-21)
+- number: '3.'
+  description: We believe in the deity of Jesus; in his virgin birth; his perfect
+    sinless life; his miracles; his victorious and atoning death on the cross; his
+    bodily resurrection; and in his ascension to the right hand of the Father. (Matt
+    1:18-23; 3:17; 28:1-6; John 2:9; 4:45; 5:5; Acts 1:9; 1 Peter 1:19; 22:21-25)
+- number: '4.'
+  description: |-
+    We believe in the ministry of Holy Spirit who offers guidance and gifts to live in the community of the Church. (John 14:26; 15:26-27)
+    We believe in the personal and imminent return of Jesus Christ to Earth. (John 14:13; Acts 1:11; 1 Thess 4:14-18)
+- number: '5.'
+  description: We believe in the resurrection of the dead in Jesus return. (Matt 25:31-32;
+    1 Cor 15:51-52; Rev 20:4-15)
+- number: '6.'
+  description: We believe in the New Testament pattern of observing communion each
+    Lord’s Day. (Luke 22:19; Acts 20:7; 1 Cor 11:23-29)
+- number: '7.'
+  description: 'We believe that the New Testament gives us a pattern for salvation,
+    and we practice this for membership. (Rom 10:17; John 3:15-16; Acts 2:38; Rom
+    10:9-10; Romans 6:1-8; Romans 1:17; 2 Pet 3:18) '
 layout: about-page
 ---
 
