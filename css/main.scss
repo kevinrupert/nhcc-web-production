@@ -1112,7 +1112,13 @@ footer {
             }
             .bio-text {
               margin-top: 32px;
-
+              p {
+                @extend .regular;
+                margin-top: 32px;
+                &:first-child {
+                  margin-top: 0;
+                }
+              }
             }
           }
         }
@@ -1125,7 +1131,7 @@ footer {
         @include breakpoint(medium-screen-up) {
           padding: 64px;
         }
-        @include breakpoint(medium-screen-up) {
+        @include breakpoint(large-screen-up) {
           padding-left: 0;
           padding-top: 0;
         }

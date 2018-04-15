@@ -79,18 +79,18 @@ layout: default
           <div class="section team">
             <h2 class="title-1">Team</h2>
             <div class="team-list">
-              {% for item in site.team | sort:"position" %}
+              {% for item in site.team_members | sort:"position" %}
               <div class="team-member">
                 <div class="portrait">
                   <img class="portrait-image" src="{{ item.image }}" />
                   <a class="email-button"><img src="imgs/email-icon.svg" /></a>
                 </div>
                 <div class="bio">
-                  <h3 class="title-3">{{ item.name }}.</h3>
-                  <p class="regular">{{ item.title }}</p>
-                  <p class="regular bio-text">
-                    {{ item.bio }}
-                  </p>
+                  <h3 class="title-3">{{ item.title }}.</h3>
+                  <p class="regular">{{ item.role }}</p>
+                  <div class="bio-text">
+                    {{ item['bio text'] | markdownify }}
+                  </div>
                 </div>
               </div>
               {% endfor %}
