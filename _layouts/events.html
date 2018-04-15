@@ -27,11 +27,11 @@ layout: default
           <div class="text">
             <h2 class="title-3">{{ item.title}}</h2>
             <p class="regular mar-top-8">
-              {{ item.date | date: "%B %d, %Y, %k %p"}}
+              {{ item.date | date: "%A, %B %d at %I%P"}}
             </p>
-            <p class="regular mar-top-24">
-              {{ item.content }}
-            </p>
+            <div class="description">
+              {{ item.content | markdownify }}
+            </div>
             <a class="button mar-top-24" href="{{ item['sign up'] }}">Sign Up</a>
           </div>
         </div>

@@ -1269,6 +1269,12 @@ footer {
         @include breakpoint(medium-screen-up) {
           padding: 64px;
         }
+        .description {
+          @extend .regular;
+          p {
+            margin-top: 24px;
+          }
+        }
       }
     }
   }
