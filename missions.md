@@ -12,9 +12,17 @@ next trip link: https://www.continuetogive.com/4841090/donation_prompt
 local:
 - name: His Place Community Center
   link: http://www.hisplacecc.org/
+- name: North Hills Community Outreach
+  link: https://nhco.org/
 global:
 - name: Christ for the City
   link: https://cfci.org/
+- name: Christian Evangelistic Society
+  link: https://thecea.org/
+- name: IDES (International Disaster Emergency Services)
+  link: https://www.ides.org/
+- name: Ivory Coast Christian Mission
+  link: http://themissionsnetwork.com/index.php/news-prayer-letters-from-ministries-missionaries/95-africa/ivory-coast-christian-mission
 layout: missions
 ---
 
