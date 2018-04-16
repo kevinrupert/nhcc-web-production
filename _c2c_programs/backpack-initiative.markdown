@@ -6,6 +6,5 @@ description: Each week we feed close to 200 students in the North Hills School D
   who are at risk of going hungry over the weekend. We pack bags each Monday evening
   full of nutritious meals and snacks to be placed in students’ backpacks for the
   next weekend.
-get involved email: mailto:kevinrupert.design@gmail.com
+get involved email: kevinrupert.design@gmail.com
 ---
-

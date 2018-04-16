@@ -8,5 +8,5 @@ bio text: Don has been Senior Minister since April 2010.  He serves with more th
   churches in Texas and Florida. Education includes doctorate and master degrees from
   Trinity Theological Seminary and a bachelor degree from Ozark Christian College.
   Don is married with two adult children and one grandchild.
+email: kevinrupert.design@gmail.com
 ---
-
