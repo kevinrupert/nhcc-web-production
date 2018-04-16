@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+    <div class="page-title">
+      <div class="max-width-container">
+        <h1 class="title-2">Small Groups</h1>
+        <div class="bar"></div>
+      </div>
+    </div>
+
+    <div class="page-image">
+      <img src="{{ page['header image'] }}" />
+    </div>
+
+    <div class="page-intro">
+      <div class="max-width-container">
+        <p class="large">
+          {{ page['intro'] }}
+        </p>
+        <a class="button mar-top-48" href="{{ page['sign up email'] }}">Sign up for a Group</a>
+      </div>
+    </div>
+
+    <div class="small-groups-grid">
+      <div class="max-width-container">
+        {% assign sorted_groups = site.groups | sort:"position" %}
+        {% for item in sorted_groups %}
+        <div class="grid-item">
+          <p class="group-name title-3">{{ item['title'] }}</p>
+          <p class="when regular">
+            {{ item['when'] }}
+          </p>
+          <p class="where regular">
+            {{ item['where'] }}
+          </p>
+          {% if item['child care'] != "" %}
+            <div class="child-care">
+              <img src="assets/imgs/heart-icon.svg" />
+              <p>
+                Childcare provided
+              </p>
+            </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
