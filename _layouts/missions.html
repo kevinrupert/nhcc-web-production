@@ -36,29 +36,21 @@ layout: default
         <div class="grid-item">
           <p class="title-3">Local Missions</p>
           <ul class="mar-top-24">
+            {% for item in page.local %}
             <li class="regular">
-              <a href="#">His Place Community Center</a>
+              <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
             </li>
-            <li class="regular">
-              <a href="#">North Hills Community Outreach</a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
         <div class="grid-item">
           <p class="title-3">Global Missions</p>
           <ul class="mar-top-24">
+            {% for item in page.global %}
             <li class="regular">
-              <a href="#">Christ for the City</a>
+              <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
             </li>
-            <li class="regular">
-              <a href="#">Christian Evangelistic Society</a>
-            </li>
-            <li class="regular">
-              <a href="#">IDES (International Disaster Emergency Services)</a>
-            </li>
-            <li class="regular">
-              <a href="#">Ivory Coast Christian Mission</a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
