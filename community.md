@@ -1,7 +1,7 @@
 ---
 title: Community
 permalink: "/community"
-position: 3
+position: 2
 Community2Community headline: Our church family follows Jesus in reaching out from
   our community to others in the Pittsburgh region.
 Community2Community image: "/uploads/comm2comm.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Sermons
 permalink: "/sermons"
-position: 6
+position: 7
 layout: sermons
 ---
 
