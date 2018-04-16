@@ -10,7 +10,7 @@ layout: default
     </div>
 
     <div class="page-image">
-      <img src="page['Header image']" />
+      <img src="{{ page['header image'] }}" />
     </div>
 
     <div class="page-intro">
@@ -23,17 +23,19 @@ layout: default
 
     <div class="comm2comm-grid">
       <div class="max-width-container">
-        <div class="grid-item">
-          <div class="image">
-            <img src="assets/imgs/backpack.jpg" />
-          </div>
-          <div class="text">
-            <h2 class="title-3">Backpack Initiative</h2>
-            <p class="regular mar-top-24">
-              Each week we feed close to 200 students in the North Hills School District who are at risk of going hungry over the weekend. We pack bags each Monday evening full of nutritious meals and snacks to be placed in students’ backpacks for the next weekend.
-            </p>
-            <a class="button mar-top-24">Get Involved</a>
-          </div>
+        {% for item in page.programs %}
+          <div class="grid-item">
+            <div class="image">
+              <img src="{{ item['image'] }}" />
+            </div>
+            <div class="text">
+              <h2 class="title-3">{{ item['name'] }}</h2>
+              <p class="regular mar-top-24">
+                {{ item['description'] }}
+              </p>
+              <a class="button mar-top-24" href="{{ item['get involved email'] }}">Get Involved</a>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
