@@ -1,6 +1,7 @@
 ---
 title: Small Groups
 permalink: "/groups"
+position: 5
 header image: "/uploads/small-groups.jpg"
 layout: small-groups
 ---
