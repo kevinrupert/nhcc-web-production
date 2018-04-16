@@ -5,9 +5,6 @@ collections:
   c2c_programs:
     title: C2C Programs
     output: false
-  groups:
-    title: Small Groups
-    output: false
   events:
     title: Events
     output: false
@@ -16,6 +13,9 @@ collections:
     output: true
   sermon_library:
     title: Sermons
+    output: false
+  groups:
+    title: Small Groups
     output: false
   team_members:
     title: Team Members
