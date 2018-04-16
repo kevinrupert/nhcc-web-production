@@ -10,3 +10,4 @@ bio text: Don has been Senior Minister since April 2010.  He serves with more th
   Don is married with two adult children and one grandchild.
 email: kevinrupert.design@gmail.com
 ---
+
