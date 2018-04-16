@@ -5,6 +5,9 @@ collections:
   c2c_programs:
     title: C2C Programs
     output: false
+  groups:
+    title: Small Groups
+    output: false
   events:
     title: Events
     output: false
@@ -50,6 +53,13 @@ defaults:
     image: ''
     description: ''
     get involved email: ''
+- scope:
+    path: ''
+    type: groups
+  values:
+    when: ''
+    where: ''
+    child care: ''
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
