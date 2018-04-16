@@ -3,7 +3,7 @@ title: Small Groups
 permalink: "/groups"
 position: 6
 header image: "/uploads/small-groups.jpg"
-layout: small-groups
+layout: groups
 sign up email: kevinrupert.design@gmail.com
 ---
 
