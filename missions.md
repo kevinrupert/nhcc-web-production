@@ -1,7 +1,7 @@
 ---
 title: Missions
 permalink: "/missions"
-position: 8
+position: 7
 layout: missions
 ---
 
