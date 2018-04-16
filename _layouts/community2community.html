@@ -23,7 +23,8 @@ layout: default
 
     <div class="comm2comm-grid">
       <div class="max-width-container">
-        {% for item in page.programs %}
+        {% assign sorted_programs = site.c2c_programs | sort:"position" %}
+        {% for item in sorted_programs %}
           <div class="grid-item">
             <div class="image">
               <img src="{{ item['image'] }}" />
