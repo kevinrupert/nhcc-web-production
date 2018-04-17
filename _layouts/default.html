@@ -26,6 +26,9 @@
           position: uluru,
           map: map,
         });
+        marker.addListener('click', function() {
+          window.open('https://www.google.com/maps/place/North+Hills+Christian+Church/@40.5504605,-79.996948,15z/data=!4m5!3m4!1s0x0:0x48fa49a538c4c4ce!8m2!3d40.5504605!4d-79.996948', '_blank');
+        });
       }
     </script>
     <script async defer
