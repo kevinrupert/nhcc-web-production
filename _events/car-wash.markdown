@@ -7,3 +7,4 @@ position: 0
 image: "/uploads/small-groups.jpg"
 event date: 2018-05-30 00:00:00 Z
 ---
+
