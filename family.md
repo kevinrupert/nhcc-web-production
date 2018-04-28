@@ -1,5 +1,5 @@
 ---
-title: Family
+title: NHCC Family
 permalink: "/family"
 position: 3
 Family image: "/uploads/family.jpg"
@@ -14,4 +14,3 @@ Students text: NHCC Students is committed to making Jesus followers of 6th-12th 
 Students ask a question: kevinrupert.design@gmail.com
 layout: family
 ---
-

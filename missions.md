@@ -1,5 +1,5 @@
 ---
-title: Missions
+title: NHCC Missions
 permalink: "/missions"
 position: 7
 header image: "/uploads/missions.jpg"

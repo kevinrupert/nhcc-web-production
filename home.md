@@ -1,5 +1,5 @@
 ---
-title: Home
+title: North Hills Christian Church
 permalink: "/"
 position: 0
 About headline: We’re making Jesus followers of the whole family through gathering,
@@ -14,4 +14,3 @@ Events headline: Following Jesus means being around people who are like Jesus.
 Events image: "/uploads/small-groups.jpg"
 layout: home
 ---
-

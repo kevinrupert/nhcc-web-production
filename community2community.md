@@ -1,5 +1,5 @@
 ---
-title: Community2Community
+title: NHCC Community2Community
 permalink: "/community2community"
 position: 5
 header image: "/uploads/comm2comm.jpg"
@@ -8,4 +8,3 @@ intro: Community2Community is about our church family and community serving our 
   of Jesus, are regularly committed to doing through service.
 layout: community2community
 ---
-

@@ -1,5 +1,5 @@
 ---
-title: Community
+title: NHCC Community
 permalink: "/community"
 position: 2
 Community2Community headline: Our church family follows Jesus in reaching out from
@@ -16,4 +16,3 @@ Give headline: Our church relies on the generosity of donors to fulfill the miss
 Give image: "/uploads/about.jpg"
 layout: community
 ---
-

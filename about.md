@@ -1,5 +1,5 @@
 ---
-title: About
+title: NHCC About
 permalink: "/about"
 position: 1
 sundays image: "/uploads/about.jpg"
@@ -45,4 +45,3 @@ faq:
     that share similar beliefs and practices.
 layout: about
 ---
-

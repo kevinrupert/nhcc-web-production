@@ -1,5 +1,5 @@
 ---
-title: Small Groups
+title: NHCC Small Groups
 permalink: "/groups"
 position: 6
 header image: "/uploads/small-groups.jpg"
