@@ -1,5 +1,5 @@
 ---
-title: NHCC About
+title: North Hills Christian Church | About
 permalink: "/about"
 position: 1
 sundays image: "/uploads/about.jpg"

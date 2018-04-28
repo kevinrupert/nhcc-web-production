@@ -1,5 +1,5 @@
 ---
-title: NHCC Family
+title: North Hills Christian Church | Family
 permalink: "/family"
 position: 3
 Family image: "/uploads/family.jpg"

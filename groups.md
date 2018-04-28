@@ -1,5 +1,5 @@
 ---
-title: NHCC Small Groups
+title:North Hills Christian Church | Small Groups
 permalink: "/groups"
 position: 6
 header image: "/uploads/small-groups.jpg"

@@ -1,5 +1,5 @@
 ---
-title: NHCC Community
+title: North Hills Christian Church | Community
 permalink: "/community"
 position: 2
 Community2Community headline: Our church family follows Jesus in reaching out from

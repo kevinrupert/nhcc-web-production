@@ -1,5 +1,5 @@
 ---
-title: NHCC Missions
+title: North Hills Christian Church | Missions
 permalink: "/missions"
 position: 7
 header image: "/uploads/missions.jpg"
