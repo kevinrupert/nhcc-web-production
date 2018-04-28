@@ -1368,6 +1368,9 @@ footer {
       @include breakpoint(large-screen-up) {
         width: 50%;
       }
+      p {
+        @extend .regular;
+      }
     }
   }
 }
