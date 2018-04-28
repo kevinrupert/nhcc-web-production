@@ -8,3 +8,4 @@ intro: Community2Community is about our church family and community serving our 
   of Jesus, are regularly committed to doing through service.
 layout: community2community
 ---
+
