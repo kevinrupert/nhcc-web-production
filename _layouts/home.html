@@ -21,15 +21,15 @@ layout: default
 <div class="home-sections">
 
   <div class="desktop-images">
-    <img class="about-image" src="imgs/about.jpg" />
-    <img class="community-image" src="imgs/community.jpg" />
-    <img class="family-image" src="imgs/family.jpg" />
-    <img class="events-image" src="imgs/events.jpg" />
+    <img class="about-image" src="{{ page['About image'] }}" />
+    <img class="community-image" src="{{ page['Community image'] }}" />
+    <img class="family-image" src="{{ page['Family image'] }}" />
+    <img class="events-image" src="{{ page['Events image'] }}" />
   </div>
 
   <div class="home-section about">
     <div class="image animate-fade">
-      <img src="imgs/about.jpg" />
+      <img src="{{ page['About image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -52,7 +52,7 @@ layout: default
 
   <div class="home-section community">
     <div class="image animate-fade">
-      <img src="imgs/community.jpg" />
+      <img src="{{ page['Community image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -75,7 +75,7 @@ layout: default
 
   <div class="home-section family">
     <div class="image animate-fade">
-      <img src="imgs/family.jpg" />
+      <img src="{{ page['Family image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -98,7 +98,7 @@ layout: default
 
   <div class="home-section events">
     <div class="image animate-fade">
-      <img src="imgs/events.jpg" />
+      <img src="{{ page['Events image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
