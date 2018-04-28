@@ -14,3 +14,4 @@ Events headline: Following Jesus means being around people who are like Jesus.
 Events image: "/uploads/small-groups.jpg"
 layout: home
 ---
+

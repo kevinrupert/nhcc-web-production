@@ -16,3 +16,4 @@ Give headline: Our church relies on the generosity of donors to fulfill the miss
 Give image: "/uploads/about.jpg"
 layout: community
 ---
+
