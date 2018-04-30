@@ -1003,56 +1003,48 @@ footer {
       }
     }
     &.sermons {
-      position: relative;
-      @include breakpoint(large-screen-up) {
-        position: inherit;
-      }
-      .image {
-        position: relative;
-        line-height: 0;
-        @include breakpoint(large-screen-up) {
-          position: absolute;
-        }
-        .details {
-          padding: 32px;
-          box-sizing: border-box;
-          color: $white;
-          font-size: 18px;
-          line-height: 18px;
-          position: absolute;
-          bottom: 0;
-          left: 0;
-          @include breakpoint(medium-screen-up) {
-            padding: 64px;
-          }
-          .title-3 {
-            color: $white;
-          }
-          .controls {
-            margin-top: 32px;
-            display: flex;
-            align-items: center;
-            .icon-button {
-              display: flex;
-              align-items: center;
-              justify-content: space-between;
-              background: $white;
-              padding: 16px;
-              width: 95px;
-              margin-right: 24px;
-              transition: all 0.5s ease;
-              &:hover {
-                background: $black;
-              }
-              p {
-                font-weight: 700;
-              }
-              img {
-                width: 24px;
+      .latest {
+        .sermon {
+          .media {
+            .media-wrapper {
+              height: 0;
+              overflow: hidden;
+              padding-bottom: 56.25%;
+              position: relative;
+              iframe {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
               }
             }
-            .all {
+          }
+        }
+        .card {
+          background: $black;
+          color: $white;
+          padding: 32px;
+          box-sizing: border-box;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          .info {
+            flex: 2;
+            .title-3 {
               color: $white;
+            }
+          }
+          .view-all {
+            .button {
+              color: $rasp;
+              background: $white;
+              border: none;
+              min-width: 100px;
+              &:hover {
+                background: $rasp;
+                color: $white;
+              }
             }
           }
         }
@@ -1061,7 +1053,7 @@ footer {
     &.history {
       margin-top: 32px;
       @include breakpoint(large-screen-up){
-        margin-top: 580px;
+        margin-top: 80px;
       }
       .text {
         .regular {
