@@ -1,6 +1,7 @@
 ---
 title: Jamie Henry
 date: 2018-05-03 17:06:00 Z
+position: 3
 role: Administrative Assistant
 image: "/uploads/portrait.jpg"
 email: jamie@northhillschristian.church
