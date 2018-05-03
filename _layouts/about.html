@@ -118,7 +118,7 @@ layout: default
                   {{ item.question }}
                 </p>
                 <p class="regular mar-top-24">
-                  {{ item.answer }}
+                  {{ item.answer | markdownify }}
                 </p>
               </li>
               {% endfor %}
