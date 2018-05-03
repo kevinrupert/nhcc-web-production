@@ -54,7 +54,7 @@ faq:
 - question: Do I have to be a member to join a group?
   answer: No. We invite everyone searching for a place to gather, learn and serve
     to join us at any of the groups and events we have throughout the year. Check
-    out our groups page for a place to plug in.
+    out our [groups page](/small-groups) for a place to plug in.
 layout: about
 ---
 
