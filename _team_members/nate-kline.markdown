@@ -1,6 +1,7 @@
 ---
 title: Nate Kline
 date: 2018-05-03 17:05:00 Z
+position: 1
 role: Associate Minister
 image: "/uploads/portrait.jpg"
 email: nate@northhillschristian.church

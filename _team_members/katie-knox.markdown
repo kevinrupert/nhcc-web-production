@@ -1,6 +1,7 @@
 ---
 title: Katie Knox
 date: 2018-05-03 17:05:00 Z
+position: 2
 role: Family Life Director
 image: "/uploads/portrait.jpg"
 email: katie@northhillschristian.church
