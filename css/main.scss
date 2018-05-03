@@ -1169,8 +1169,10 @@ footer {
           &:last-child {
             margin-bottom: 0;
           }
-          .regular {
-
+          .text {
+            @extend .regular;
+            padding: 0;
+            margin-top: 24px;
           }
         }
       }
