@@ -37,7 +37,6 @@ defaults:
     type: team_members
   values:
     role: ''
-    bio text: ''
     image: ''
     email: ''
 - scope:
@@ -52,7 +51,6 @@ defaults:
     type: c2c_programs
   values:
     image: ''
-    description: ''
     get involved email: ''
 - scope:
     path: ''
@@ -67,7 +65,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: 
+baseurl:
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
