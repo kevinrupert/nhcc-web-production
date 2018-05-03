@@ -43,6 +43,18 @@ faq:
     autonomous, non-denominational congregation of all backgrounds, but we are associated
     with nearly 5,000 other Christian Churches/Churches of Christ across the world
     that share similar beliefs and practices.
+- question: Do I need to dress up?
+  answer: 'No. NHCC offers a casual worship service. We encourage everyone to come
+    with a cup of your favorite drink--or have one of ours--and wear whatever makes
+    you feel comfortable. '
+- question: Will my kids and students be safe while attending NHCC?
+  answer: Yes. All of our adult volunteers have their background checks and are in
+    compliance with federal and state laws. Kids will also be escorted back to their
+    class with their loving adult volunteers.
+- question: Do I have to be a member to join a group?
+  answer: No. We invite everyone searching for a place to gather, learn and serve
+    to join us at any of the groups and events we have throughout the year. Check
+    out our groups page for a place to plug in.
 layout: about
 ---
 
