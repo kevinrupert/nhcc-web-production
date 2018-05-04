@@ -10,10 +10,10 @@ layout: default
     </div>
 
     <div class="page-image">
-      <img src="{{ page['header image'] }}" />
+      <img class="animate-fade" src="{{ page['header image'] }}" />
     </div>
 
-    <div class="page-intro">
+    <div class="page-intro animate-fade">
       <div class="max-width-container">
         <p class="large">
           {{ page['content'] }}
@@ -25,11 +25,11 @@ layout: default
       <div class="max-width-container">
         {% assign sorted_programs = site.c2c_programs | sort:"position" %}
         {% for item in sorted_programs %}
-          <div class="grid-item">
-            <div class="image">
+          <div class="grid-item animation-group">
+            <div class="image animate-fade">
               <img src="{{ item['image'] }}" />
             </div>
-            <div class="text">
+            <div class="text animate-fade-up delay-2">
               <h2 class="title-3">{{ item['title'] }}</h2>
               <div class="mar-top-24">
                 {{ item['content'] | markdownify }}

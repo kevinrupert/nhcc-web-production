@@ -28,17 +28,17 @@ layout: default
 
         <div class="about-sections">
           <div id="sundays" class="section sundays">
-            <h2 class="title-1">Sundays</h2>
+            <h2 class="title-1 animate-fade">Sundays</h2>
             <div class="image">
-              <img src="{{ page['sundays image'] }}" />
+              <img class="animate-fade" src="{{ page['sundays image'] }}" />
             </div>
-            <div class="text">
+            <div class="text animate-fade-up">
               {{ page['sundays text'] | markdownify }}
             </div>
           </div>
           <div id="sermons" class="section sermons">
-            <h2 class="title-1">Sermons</h2>
-              <div class="latest">
+            <h2 class="title-1 animate-fade">Sermons</h2>
+              <div class="latest animate-fade">
                 {% assign sorted_sermons = site.sermon_library | sort:"position" %}
                 {% for item in sorted_sermons limit:1 %}
                 <div class="sermon">
@@ -65,15 +65,15 @@ layout: default
               </div>
           </div>
           <div id="history" class="section history">
-            <h2 class="title-1">History <br />& Beliefs</h2>
+            <h2 class="title-1 animate-fade">History <br />& Beliefs</h2>
             <div class="image">
-              <img src="{{ page['history image'] }}" />
+              <img class="animate-fade" src="{{ page['history image'] }}" />
             </div>
             <div class="text">
-              <p class="regular">
+              <p class="regular animate-fade-up">
                 {{ page['history text'] }}
               </p>
-              <ul class="beliefs">
+              <ul class="beliefs animate-fade-up">
                 {% for item in page.beliefs %}
                 <li>
                   <p class="regular number">
@@ -88,16 +88,16 @@ layout: default
             </div>
           </div>
           <div id="team" class="section team">
-            <h2 class="title-1">Team</h2>
+            <h2 class="title-1 animate-fade">Team</h2>
             <div class="team-list">
               {% assign sorted_team = site.team_members | sort:"position" %}
               {% for item in sorted_team %}
-              <div class="team-member">
-                <div class="portrait">
+              <div class="team-member animation-group">
+                <div class="portrait animate-fade">
                   <img class="portrait-image" src="{{ item.image }}" />
                   <a class="email-button" href="mailto:{{ item.email }}"><img src="imgs/email-icon.svg" /></a>
                 </div>
-                <div class="bio">
+                <div class="bio animate-fade-up">
                   <h3 class="title-3">{{ item.title }}.</h3>
                   <p class="regular">{{ item.role }}</p>
                   <div class="bio-text">
@@ -109,8 +109,8 @@ layout: default
             </div>
           </div>
           <div id="faq" class="section faq">
-            <h2 class="title-1">FAQ</h2>
-            <ul class="faq-list">
+            <h2 class="title-1 animate-fade">FAQ</h2>
+            <ul class="faq-list animate-fade-up">
               {% assign sorted_faq = page.faq | sort:"position" %}
               {% for item in sorted_faq %}
               <li>

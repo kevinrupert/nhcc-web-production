@@ -9,25 +9,25 @@ layout: default
       </div>
     </div>
 
-    <div class="page-image">
+    <div class="page-image animate-fade">
       <img src="{{ page['Family image'] }}" />
     </div>
 
     <div class="family-text">
       <div class="container">
-        <div class="kids">
-          <h2 class="title-3">Kids</h2>
-          <div class="text">
+        <div class="kids animation-group">
+          <h2 class="title-3 animate-fade-up">Kids</h2>
+          <div class="text animate-fade-up delay-2">
             {{ page['Kids text'] | markdownify }}
           </div>
-          <a class="button mar-top-24" href="mailto:{{ page['Kids ask a question'] }}">Ask a Question</a>
+          <a class="button mar-top-24 animate-fade-up delay-3" href="mailto:{{ page['Kids ask a question'] }}">Ask a Question</a>
         </div>
-        <div class="students">
-          <h2 class="title-3">Students</h2>
-          <div class="text">
+        <div class="students animation-group">
+          <h2 class="title-3 animate-fade-up">Students</h2>
+          <div class="text animate-fade-up delay-2">
             {{ page['Students text'] | markdownify }}
           </div>
-          <a class="button mar-top-24" href="mailto:{{ page['Students ask a question'] }}">Ask a Question</a>
+          <a class="button mar-top-24 animate-fade-up delay-3" href="mailto:{{ page['Students ask a question'] }}">Ask a Question</a>
         </div>
       </div>
     </div>
@@ -42,7 +42,7 @@ layout: default
             {% assign sorted_events = site.events | sort:"event date" %}
             {% for item in sorted_events %}
               {% if item.tags contains 'family' %}
-              <div class="event">
+              <div class="event animate-fade-up">
                 <div class="image">
                   <img src="{{ item.image }}" />
                   <div class="date">

@@ -13,7 +13,7 @@ layout: default
       <div class="container">
         {% assign sorted_sermons = site.sermon_library | sort:"position" %}
         {% for item in sorted_sermons %}
-          <div class="sermon">
+          <div class="sermon animate-fade-up">
             <div class="media">
               <div class="media-wrapper">
                 <iframe src="{{ item.media }}" frameborder="0" allowfullscreen></iframe>

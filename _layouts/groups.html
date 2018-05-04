@@ -10,10 +10,10 @@ layout: default
     </div>
 
     <div class="page-image">
-      <img src="{{ page['header image'] }}" />
+      <img class="animate-fade" src="{{ page['header image'] }}" />
     </div>
 
-    <div class="page-intro">
+    <div class="page-intro animate-fade">
       <div class="max-width-container">
         <p class="large">
           {{ page['content'] }}
@@ -26,7 +26,7 @@ layout: default
       <div class="max-width-container">
         {% assign sorted_groups = site.groups | sort:"position" %}
         {% for item in sorted_groups %}
-        <div class="grid-item">
+        <div class="grid-item animate-fade-up">
           <p class="group-name title-3">{{ item['title'] }}</p>
           <p class="when regular">
             {{ item['when'] }}

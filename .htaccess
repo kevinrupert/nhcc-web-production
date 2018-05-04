@@ -3,5 +3,5 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile .htpasswd
+AuthUserFile /home/nortskmt/public_html/.htpasswd
 Require valid-user

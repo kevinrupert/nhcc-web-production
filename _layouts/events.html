@@ -13,7 +13,7 @@ layout: default
       <div class="container">
         {% assign sorted_events = site.events | sort:"event date" %}
         {% for item in sorted_events %}
-        <div class="event">
+        <div class="event animate-fade-up">
           <div class="image">
             <img src="{{ item.image }}" />
             <div class="date">
