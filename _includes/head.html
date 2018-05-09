@@ -5,6 +5,18 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="keywords" content="church, christian church, north hills, pittsburgh, family church">
+
+  <!-- Faecbook Share -->
+  <meta property="og:url" content="https://northhillschristian.church" />
+  <meta property="og:title" content="North Hills Christian Church" />
+  <meta property="og:description" content="Families following Jesus in Pittsburgh, PA." />
+  <meta property="og:image" content="https://northhillschristian.church/imgs/facebook-share.png" />
+  <!-- Twitter Share -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="North Hills Christian Church" />
+  <meta name="twitter:description" content="Families following Jesus in Pittsburgh, PA." />
+  <meta name="twitter:image" content="https://northhillschristian.church/imgs/twitter-share.png" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
