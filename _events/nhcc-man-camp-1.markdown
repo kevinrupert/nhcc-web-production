@@ -8,6 +8,6 @@ sign up: https://www.eventbrite.com/e/nhcc-man-camp-1-ax-throwing-tickets-461502
 
 North Hills Chrisitan Church is proud to present MAN CAMP 2018. The 3rd Saturdays in June, July, and August will give all our men of all ages an opportunity to escape the yard work and gather with the guys.
 
-June 16 : Ax Throwing at THROW on McKnight Road ($20)
+June 16 : Axe Throwing at THROW on McKnight Road ($20)
 
 
