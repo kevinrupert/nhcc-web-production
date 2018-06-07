@@ -1,7 +1,7 @@
 ---
 title: NHCC Man Camp 1
 date: 2018-05-16 15:12:00 Z
-image: "/uploads/mancampplain.png"
+image: "/uploads/mancampwebsite.jpg"
 event date: 2018-06-16 13:30:00 Z
 sign up: https://www.eventbrite.com/e/nhcc-man-camp-1-ax-throwing-tickets-46150295777
 ---
