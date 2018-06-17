@@ -1,7 +1,7 @@
 ---
 title: World Vision Fulfillment
 date: 2018-05-03 16:52:00 Z
-image: "/uploads/backpack.jpg"
+image: "/uploads/place-holder.jpg"
 get involved email: katie@northhillschristian.church
 ---
 
