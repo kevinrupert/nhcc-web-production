@@ -3,7 +3,7 @@ title: Don Swingle, Jr.
 date: 2018-04-15 13:58:00 Z
 position: 0
 role: Senior Minister
-image: "/uploads/portrait.jpg"
+image: "/uploads/place-holder.jpg"
 email: kevinrupert.design@gmail.com
 ---
 
