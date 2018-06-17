@@ -12,7 +12,7 @@ Missions headline: We support missionaries making Jesus followers both locally a
   globally.
 Missions image: "/uploads/place-holder.jpg"
 Needs headline: Have a need? We're here to help.
-Needs image: "/uploads/about-hero-2.jpg"
+Needs image: "/uploads/needs-hero.jpg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
 Give image: "/uploads/give-hero.jpg"
