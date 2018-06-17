@@ -1,6 +1,7 @@
 ---
 title: North Hills Christian Church | Needs
 permalink: "/needs"
+position: 10
 header image: "/uploads/comm2comm-hero.jpg"
 layout: needs
 ---

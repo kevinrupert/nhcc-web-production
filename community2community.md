@@ -1,7 +1,7 @@
 ---
 title: North Hills Christian Church | Community2Community
 permalink: "/community2community"
-position: 5
+position: 6
 header image: "/uploads/comm2comm-hero.jpg"
 layout: community2community
 ---

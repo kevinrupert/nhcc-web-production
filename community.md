@@ -1,7 +1,7 @@
 ---
 title: North Hills Christian Church | Community
 permalink: "/community"
-position: 2
+position: 3
 Community2Community headline: Our church family follows Jesus in reaching out from
   our community to others in the Pittsburgh region.
 Community2Community image: "/uploads/comm2comm-hero.jpg"

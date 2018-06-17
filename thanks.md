@@ -1,6 +1,7 @@
 ---
 title: North Hills Christian Church | Thanks
 permalink: "/thanks"
+position: 0
 layout: thanks
 ---
 

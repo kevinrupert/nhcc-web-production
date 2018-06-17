@@ -1,7 +1,7 @@
 ---
 title: North Hills Christian Church | Events
 permalink: "/events"
-position: 4
+position: 5
 layout: events
 ---
 
