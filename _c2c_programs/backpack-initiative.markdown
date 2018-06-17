@@ -1,7 +1,7 @@
 ---
 title: Backpack Initiative
 date: 2018-04-16 15:52:00 Z
-image: "/uploads/place-holder.jpg"
+image: "/uploads/backpack-hero.jpg"
 get involved email: kevinrupert.design@gmail.com
 ---
 
