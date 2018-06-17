@@ -11,7 +11,7 @@ Small Groups image: "/uploads/place-holder.jpg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/place-holder.jpg"
-Needs headline: Have a need? We're here to help.
+Needs headline: Have a need? We’re here to help.
 Needs image: "/uploads/needs-hero.jpg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
