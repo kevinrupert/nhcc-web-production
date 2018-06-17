@@ -781,7 +781,7 @@ footer {
       }
       @include breakpoint(large-screen-up){
         width: 50%;
-        min-height: 700px;
+        min-height: 500px;
         padding: 16px;
         box-sizing: border-box;
       }
@@ -1474,6 +1474,63 @@ footer {
       border-bottom: 3px solid $rasp;
     }
   }
+}
+
+.needs-form {
+  padding: 32px;
+  box-sizing: border-box;
+  @include breakpoint(medium-screen-up) {
+    padding: 64px;
+  }
+  @include breakpoint(large-screen-up) {
+    display: flex;
+    justify-content: center;
+  }
+  input, textarea {
+    margin-bottom: 32px;
+    margin-top: 16px;
+    width: 100%;
+    @include breakpoint(large-screen-up) {
+      margin-bottom: 48px;
+    }
+  }
+  textarea {
+    min-height: 300px;
+    padding: 16px;
+  }
+  input.button {
+    padding-left: 0;
+  }
+  .form {
+    width: 100%;
+  }
+  .grid {
+    &.thirds {
+      @include breakpoint(large-screen-up) {
+        display: flex;
+        .grid-item {
+          width: 33.333%;
+          margin-right: 24px;
+          &:last-child {
+            margin-right: 0;
+          }
+        }
+      }
+    }
+  }
+}
+
+.needs-thanks {
+  height: 500px;
+  background: $black;
+  color: $white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 76px;
+  padding: 32px;
+  box-sizing: border-box;
 }
 
 // Animations
