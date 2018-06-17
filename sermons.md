@@ -1,7 +1,7 @@
 ---
 title: North Hills Christian Church | Sermons
 permalink: "/sermons"
-position: 9
+position: 8
 layout: sermons
 ---
 
