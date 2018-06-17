@@ -1,5 +1,5 @@
 ---
-title: North Hills Christian Church | Thanks
+title: North Hills Christian Church | Success
 permalink: "/success"
 position: 10
 layout: success
