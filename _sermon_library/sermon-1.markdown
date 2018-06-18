@@ -1,5 +1,5 @@
 ---
-title: First Sermon!
+title: Jonah Series
 position: 1
 speaker: Nate Kline
 media: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457324350
