@@ -10,7 +10,7 @@ Small Groups headline: Small Groups are the core of our gathering and learning o
 Small Groups image: "/uploads/placeholder.jpg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
-Missions image: "/uploads/place-holder.jpg"
+Missions image: "/uploads/placeholder.jpg"
 Needs headline: Have a need? We’re here to help.
 Needs image: "/uploads/needs-hero-02e7af.jpg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
