@@ -7,7 +7,7 @@ Community2Community headline: Our church family follows Jesus in reaching out fr
 Community2Community image: "/uploads/comm2comm-hero.jpg"
 Small Groups headline: Small Groups are the core of our gathering and learning outside
   the regular worship service.
-Small Groups image: "/uploads/placeholder.jpg"
+Small Groups image: "/uploads/palceholder.png"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/placeholder.jpg"
