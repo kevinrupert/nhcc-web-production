@@ -2,7 +2,7 @@
 title: North Hills Christian Church | Small Groups
 permalink: "/groups"
 position: 6
-header image: "/uploads/place-holder.jpg"
+header image: "/uploads/placeholder.svg"
 sign up email: nate@northhillschristian.church
 layout: groups
 ---
