@@ -3,12 +3,9 @@ title: North Hills Christian Church | Missions
 permalink: "/missions"
 position: 7
 header image: "/uploads/JK2_6610.jpg"
-next trip: June 2018 Mission Trip
-next trip text: In 2018, NHCC will embark on an evangelistic mission trip focused
-  on making Jesus followers of the students on Northern Ireland. We will partner with
-  Celtic Christian Mission, churches and local ministries in Northern Ireland to replant
-  the seed for Jesus in the least evangelized English speaking country in the world.
-next trip link: https://www.continuetogive.com/4841090/donation_prompt
+next trip: 
+next trip text: 
+next trip link: 
 local:
 - name: His Place Community Center
   link: http://www.hisplacecc.org/
