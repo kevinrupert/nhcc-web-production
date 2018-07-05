@@ -2,7 +2,7 @@
 title: North Hills Christian Church | Missions
 permalink: "/missions"
 position: 7
-header image: "/uploads/placeholder.svg"
+header image: "/uploads/JK2_6610.jpg"
 next trip: June 2018 Mission Trip
 next trip text: In 2018, NHCC will embark on an evangelistic mission trip focused
   on making Jesus followers of the students on Northern Ireland. We will partner with
