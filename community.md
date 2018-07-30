@@ -16,6 +16,8 @@ Needs image: "/uploads/needs-hero-02e7af.jpg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
 Give image: "/uploads/give-hero.jpg"
+Church Calendar headline: Check out what's happening each month at NHCC.
+Church Calendar image: "/uploads/NHCC-August2018-Calendar.jpg"
 layout: community
 ---
 
