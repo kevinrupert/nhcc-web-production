@@ -1,0 +1,10 @@
+---
+title: Backpack Initiative Serving Schedule
+date: 2018-09-05 15:49:00 Z
+image: "/uploads/comm2comm-hero.jpg"
+event date: 2018-09-10 00:00:00 Z
+---
+
+In an effort to continue serving at risk in the North Hills School District, NHCC will pack food bags the 2nd Sunday of each month, immediately following the worship service. The packing only takes a few minutes and is an easy way to be involved in a program with BIG results. Upcoming dates are: September 10th, October 14th, November 11th & December 9th.
+
+SEPTEMBER DONATION ITEM is single serve pudding cuups
