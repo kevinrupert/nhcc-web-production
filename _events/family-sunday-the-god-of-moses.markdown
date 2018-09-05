@@ -1,7 +1,7 @@
 ---
 title: Family Sunday The God of Moses
 date: 2018-09-05 15:31:00 Z
-image: "/uploads/god%20of%20moses.jpg"
+image: "/uploads/moses.jpg"
 event date: 2018-09-16 10:00:00 Z
 ---
 
