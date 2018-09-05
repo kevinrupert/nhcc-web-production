@@ -21,7 +21,7 @@ LINE UP
 
 SATURDAY, SEPTEMBER 29th
 
-10am Arrive at camp and settle in. There are 2 choices for accommodations. Pitch a tent or bunk in our Male or Female designated dorms. The cost is the same either way
+10am Arrive at camp and settle in. There are 2 choices for accommodations. Pitch a tent or bunk in our male or female designated dorms. The cost is the same either way.
 
 12pm-1:00 Lunch & CONNECT Message #1
 1pm-2pm Nature Walk
