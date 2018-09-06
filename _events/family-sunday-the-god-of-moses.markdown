@@ -1,5 +1,5 @@
 ---
-title: Family Sunday The God of Moses
+title: 'Family Sunday: The God of Moses'
 date: 2018-09-05 15:31:00 Z
 image: "/uploads/placeholder.svg"
 event date: 2018-09-16 10:00:00 Z
