@@ -1,6 +1,7 @@
 ---
 title: 'NHCC Students: Adventure Day'
 date: 2018-09-06 19:15:00 Z
+position: 5
 image: "/uploads/adventure-elkhorn.jpg"
 event date: 2018-12-01 00:00:00 Z
 sign up: https://www.eventbrite.com/e/nhcc-students-adventure-day-tickets-49959720870
