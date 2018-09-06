@@ -1,6 +1,7 @@
 ---
 title: 'Backpack Initiative: September Packing'
 date: 2018-09-05 15:49:00 Z
+position: 0
 image: "/uploads/comm2comm-hero.jpg"
 event date: 2018-09-09 11:00:00 Z
 ---
