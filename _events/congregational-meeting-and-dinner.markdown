@@ -1,7 +1,7 @@
 ---
 title: Congregational Meeting and Dinner
 date: 2018-09-06 19:09:00 Z
-position: 2
+position: 4
 image: "/uploads/nhcc-congregational-dinner.jpg"
 event date: 2018-11-18 17:00:00 Z
 ---

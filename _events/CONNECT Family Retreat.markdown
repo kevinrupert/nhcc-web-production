@@ -1,7 +1,7 @@
 ---
 title: CONNECT Family Retreat
 date: 2018-06-07 20:40:00 Z
-position: 4
+position: 2
 image: "/uploads/familycampwebsite.jpg"
 event date: 2018-09-29 10:00:00 Z
 sign up: https://www.eventbrite.com/e/connected-a-nhcc-family-retreat-tickets-49356983065
