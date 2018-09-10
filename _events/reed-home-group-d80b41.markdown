@@ -1,5 +1,5 @@
 ---
-title: Reed Home Group
+title: Reed Small Group
 date: 2018-09-10 15:46:00 Z
 tags:
 - small groups
