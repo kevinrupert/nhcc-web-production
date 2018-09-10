@@ -1,6 +1,8 @@
 ---
 title: Fattibene Home Group
 date: 2018-09-10 15:53:00 Z
+tags:
+- small groups
 image: "/uploads/NHCC-GROUPS-WEBSITE.jpg"
 event date: 2018-09-27 18:30:00 Z
 ---
