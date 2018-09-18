@@ -4,7 +4,7 @@ permalink: "/about"
 position: 1
 sundays image: "/uploads/about-hero-3.jpg"
 sundays text: |-
-  Sundays are the core of our gathering, learning and serving. NHCC believes being a Jesus follower means meeting and learning together.
+  Sundays are the core of our connecting, growing and serving. NHCC believes being a Jesus follower means meeting and learning together.
 
   On Sundays our entire church family gathers at 10am to worship through song; learn from the teachings of the Bible; partake in communion; give to the church and those in need through our offering; and serve wherever we might be needed.
 
