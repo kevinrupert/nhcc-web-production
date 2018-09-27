@@ -9,6 +9,8 @@ sundays text: |-
   On Sundays our entire church family gathers at 10am to worship through song; learn from the teachings of the Bible; partake in communion; give to the church and those in need through our offering; and serve wherever we might be needed.
 
   Sundays also provide an opportunity for our Kids and Students to learn and serve. Our dedicated staff and volunteers have tailored a worship experience that is engaging and safe for the whole family.
+
+  You'll find us connecting each week at the intersection of Ross, McCandless, Shaler and Hampton Townships in Pittsburgh's North Hills - see you on Sunday!
 history image: "/uploads/about-hero-4.jpg"
 history text: 'NHCC was started in 1960 with just a few members and over the next
   six decades has grown into the church it is today. This is what NHCC believes:'
