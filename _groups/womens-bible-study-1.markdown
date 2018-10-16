@@ -2,7 +2,7 @@
 title: Women’s Bible Study 1
 date: 2018-04-16 16:05:00 Z
 position: 2
-when: Wednesdays, 6:30-8pm
+when: Wednesdays, 7-8pm
 where: NHCC Narthex
 ---
 
