@@ -4,7 +4,7 @@ date: 2018-09-06 19:00:00 Z
 position: 3
 image: "/uploads/world-vision-hero.jpg"
 event date: 2018-10-27 09:00:00 Z
-sign up: https://www.eventbrite.com/e/serve-world-vision-tickets-49959214355
+sign up: https://www.eventbrite.com/e/serve-world-vision-packing-tickets-51653052671
 ---
 
 NHCC will partner again with World Vision Fulfillment Center to pack much needed supplies for missions around the world.
