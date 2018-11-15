@@ -3,6 +3,7 @@ title: OASIS Progressive Dinner
 date: 2018-11-12 21:37:00 Z
 image: "/uploads/dinner.jpg"
 event date: 2018-12-09 17:00:00 Z
+sign up: https://www.eventbrite.com/e/oasis-progressive-dinner-tickets-52664590207
 ---
 
 pro·gres·sive din·ner
