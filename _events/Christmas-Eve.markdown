@@ -1,7 +1,7 @@
 ---
 title: Christmas Eve
 date: 2018-11-15 18:51:00 Z
-image: "/uploads/light%20it%20up-8e584b.jpg"
+image: "/uploads/NHCC%20xmas%20eve.001.jpeg"
 event date: 2018-12-23 17:00:00 Z
 ---
 
