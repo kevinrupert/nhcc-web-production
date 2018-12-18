@@ -6,4 +6,3 @@ when: Wednesdays, 7-8pm
 where: NHCC Narthex
 ---
 
-![armor of god.jpg](/uploads/armor%20of%20god.jpg)
