@@ -2,6 +2,15 @@
 title: North Hills Christian Church | About
 permalink: "/about"
 position: 1
+New Message Series Image: "/uploads/Are%20we%20thre%20yet.jpg"
+new message series text: We’ve all been on those adventurous road trips—maybe with
+  family, maybe with a group of friends…the landscapes may vary, but the experiences
+  and “markers” along the way become part of who we are.  The scriptures give us a
+  picture of faith as an ongoing journey, and here at NHCC, we get to take that adventure
+  together!  Join us starting January 6 as we kick off a 5 week message series that
+  will look at some of the most essential and foundational “markers” we want to let
+  shape us as a church along this shared journey, as well as challenge us personally
+  to continue to take steps following Jesus in the process.
 sundays image: "/uploads/about-hero-3.jpg"
 sundays text: |-
   Sundays are the core of our connecting, growing and serving. NHCC believes being a Jesus follower means meeting and learning together.
