@@ -6,4 +6,4 @@ image: "/uploads/NHCC%20xmas%20eve.001.jpeg"
 event date: 2018-12-24 17:00:00 Z
 ---
 
-Be sure and join us Christmas Eve, Monday, December 24th at 5pm for a time of reflection, prayer, and celebration as we gather together to consider how our world, our history, and our lives are profoundly affected by this baby born in a manger 2,000 years ago.
+Be sure and join us Christmas Eve, Monday, December 24th at 5pm for a time of reflection, prayer, and celebration as we gather together to consider how our world, our history, and our lives are profoundly affected by this baby born in a manger 2,000 years ago. There will be no children's programming for Christmas Eve. We encourage families to worship together in the main service. 
