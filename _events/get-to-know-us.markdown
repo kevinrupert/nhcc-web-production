@@ -1,6 +1,7 @@
 ---
 title: Get To Know Us
 date: 2018-01-27 11:00:00 Z
+position: 2
 image: "/uploads/soup.jpg"
 event date: 2019-01-27 11:00:00 Z
 ---
