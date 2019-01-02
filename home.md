@@ -10,7 +10,7 @@ About headline: "“Are We There Yet?”  We’ve all been on those adventurous 
   will look at some of the most essential and foundational “markers” we want to let
   shape us as a church along this shared journey, as well as challenge us personally
   to continue to take steps following Jesus in the process."
-Current Message Series image: "/uploads/Are%20we%20thre%20yet.jpg"
+About image: "/uploads/Are%20we%20thre%20yet.jpg"
 Community headline: Following Jesus includes serving His community both locally and
   globally.
 Community image: "/uploads/community-hero.jpg"
