@@ -7,3 +7,4 @@ where: NHCC Narthex
 child care: 'yes'
 ---
 
+All day, every day
