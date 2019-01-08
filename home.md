@@ -10,7 +10,7 @@ Block 1 text: "“Are We There Yet?”  We’ve all been on those adventurous 
   together!  This message series will look at some of the most essential and foundational
   “markers” we want to let shape us as a church along this shared journey, as well
   as challenge us personally to become more like Jesus.\n"
-Block 1 image: "/uploads/web%20sized%20graphics.001.jpeg"
+Block 1 image: "/uploads/1.8graphic%20front%20page.jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
