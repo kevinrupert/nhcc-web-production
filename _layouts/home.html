@@ -21,15 +21,15 @@ layout: default
 <div class="home-sections">
 
   <div class="desktop-images">
-    <img class="about-image" src="{{ page['About image'] }}" />
-    <img class="community-image" src="{{ page['Community image'] }}" />
-    <img class="family-image" src="{{ page['Family image'] }}" />
-    <img class="events-image" src="{{ page['Events image'] }}" />
+    <img class="about-image" src="{{ page['Block 1 image'] }}" />
+    <img class="community-image" src="{{ page['Block 2 image'] }}" />
+    <img class="family-image" src="{{ page['Block 3 image'] }}" />
+    <img class="events-image" src="{{ page['Block 4 image'] }}" />
   </div>
 
   <div class="home-section about">
     <div class="image animate-fade">
-      <img src="{{ page['About image'] }}" />
+      <img src="{{ page['Block 1 image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -38,12 +38,12 @@ layout: default
       </div>
       <div class="container">
         <div class="animation-group">
-          <h2 class="title-2">About</h2>
+          <h2 class="title-2">{{ page['Block 1 title'] }}</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            {{ page['About headline'] }}
+            {{ page['Block 1 text'] }}
           </p>
           <div class="animate-fade-up delay-2">
-            <a class="button mar-top-16" href="/about">Learn More</a>
+            <a class="button mar-top-16" href="{{ page['Block 1 link'] }}">{{ page['Block 1 link text'] }}</a>
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@ layout: default
 
   <div class="home-section community">
     <div class="image animate-fade">
-      <img src="{{ page['Community image'] }}" />
+      <img src="{{ page['Block 2 image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -61,12 +61,12 @@ layout: default
       </div>
       <div class="container">
         <div class="animation-group">
-          <h2 class="title-2">Community</h2>
+          <h2 class="title-2">{{ page['Block 2 title'] }}</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            {{ page['Community headline'] }}
+            {{ page['Block 2 text'] }}
           </p>
           <div class="animate-fade-up delay-2">
-            <a class="button mar-top-16" href="/community">Learn More</a>
+            <a class="button mar-top-16" href="{{ page['Block 2 link'] }}">{{ page['Block 2 link text'] }}</a>
           </div>
         </div>
       </div>
@@ -75,7 +75,7 @@ layout: default
 
   <div class="home-section family">
     <div class="image animate-fade">
-      <img src="{{ page['Family image'] }}" />
+      <img src="{{ page['Block 3 image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -84,12 +84,12 @@ layout: default
       </div>
       <div class="container">
         <div class="animation-group">
-          <h2 class="title-2">Family</h2>
+          <h2 class="title-2">{{ page['Block 3 title'] }}</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            {{ page['Family headline'] }}
+            {{ page['Block 3 text'] }}
           </p>
           <div class="animate-fade-up delay-2">
-            <a class="button mar-top-16" href="/family">Learn More</a>
+            <a class="button mar-top-16" href="{{ page['Block 3 link'] }}">{{ page['Block 3 link text'] }}</a>
           </div>
         </div>
       </div>
@@ -98,7 +98,7 @@ layout: default
 
   <div class="home-section events">
     <div class="image animate-fade">
-      <img src="{{ page['Events image'] }}" />
+      <img src="{{ page['Block 4 image'] }}" />
     </div>
     <div class="text">
       <div class="rule">
@@ -107,12 +107,12 @@ layout: default
       </div>
       <div class="container">
         <div class="animation-group">
-          <h2 class="title-2">Events</h2>
+          <h2 class="title-2">{{ page['Block 4 title'] }}</h2>
           <p class="regular mar-top-48 animate-fade-up">
-            {{ page['Events headline'] }}
+            {{ page['Block 4 text'] }}
           </p>
           <div class="animate-fade-up delay-2">
-            <a class="button mar-top-16" href="/events">Learn More</a>
+            <a class="button mar-top-16" href="{{ page['Block 4 link'] }}">{{ page['Block 4 link text'] }}</a>
           </div>
         </div>
       </div>

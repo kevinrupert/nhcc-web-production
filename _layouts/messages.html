@@ -4,15 +4,15 @@ layout: default
 
     <div class="page-title">
       <div class="max-width-container">
-        <h1 class="title-2">Sermons</h1>
+        <h1 class="title-2">Messages</h1>
         <div class="bar"></div>
       </div>
     </div>
 
     <div class="sermons-grid">
       <div class="container">
-        {% assign sorted_sermons = site.sermon_library | sort:"position" %}
-        {% for item in sorted_sermons %}
+        {% assign sorted_messages = site.message_library | sort:"position" %}
+        {% for item in sorted_messages %}
           <div class="sermon animate-fade-up">
             <div class="media">
               <div class="media-wrapper">
@@ -28,7 +28,7 @@ layout: default
                 {{ item.speaker }}
               </p>
               <p class="regular date">
-                {{ item.sermon_date | date: "%B %d, %Y"}}
+                {{ item.message_date | date: "%B %d, %Y"}}
               </p>
               </div>
             </div>

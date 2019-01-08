@@ -18,7 +18,7 @@ layout: default
           <div class="container">
             <ul class="nav">
               <li><a data-scroll href="#sundays">Sundays</a></li>
-              <li><a data-scroll href="#sermons">Sermons</a></li>
+              <li><a data-scroll href="#sermons">Messages</a></li>
               <li><a data-scroll href="#history">History & Beliefs</a></li>
               <li><a data-scroll href="#team">Team</a></li>
               <li><a data-scroll href="#faq">FAQ</a></li>
@@ -37,10 +37,10 @@ layout: default
             </div>
           </div>
           <div id="sermons" class="section sermons">
-            <h2 class="title-1 animate-fade">Sermons</h2>
+            <h2 class="title-1 animate-fade">Messages</h2>
               <div class="latest animate-fade">
-                {% assign sorted_sermons = site.sermon_library | sort:"position" %}
-                {% for item in sorted_sermons limit:1 %}
+                {% assign sorted_messages = site.message_library | sort:"position" %}
+                {% for item in sorted_messages limit:1 %}
                 <div class="sermon">
                   <div class="media">
                     <div class="media-wrapper">
@@ -58,7 +58,7 @@ layout: default
                     </h3>
                   </div>
                   <div class="view-all">
-                    <a class="button" href="/sermons">View All</a>
+                    <a class="button" href="/messages">View All</a>
                   </div>
                 </div>
                 {% endfor %}
