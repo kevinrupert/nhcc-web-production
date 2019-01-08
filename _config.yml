@@ -8,12 +8,12 @@ collections:
   events:
     title: Events
     output: false
-  posts:
-    title: Posts
-    output: true
   message_library:
     title: Messages
     output: false
+  posts:
+    title: Posts
+    output: true
   groups:
     title: Small Groups
     output: false
