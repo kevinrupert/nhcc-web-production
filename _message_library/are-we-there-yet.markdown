@@ -1,5 +1,5 @@
 ---
-title: Are We There Yet?
+title: 'Are We There Yet?: "Biblical Authority"'
 date: 2019-01-09 01:57:00 Z
 position: 0
 speaker: Ethan Harrington
