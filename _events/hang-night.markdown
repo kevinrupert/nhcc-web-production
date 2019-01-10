@@ -1,7 +1,7 @@
 ---
 title: Hang Night
 date: 2019-01-02 17:02:00 Z
-position: 1
+position: 2
 image: "/uploads/Game%20Board.jpg"
 event date: 2019-01-20 18:00:00 Z
 sign up: https://www.eventbrite.com/e/hang-night-tickets-54298810203
