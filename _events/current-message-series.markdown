@@ -1,7 +1,7 @@
 ---
 title: Current Message Series
 date: 2018-12-19 00:37:00 Z
-position: 0
+position: 1
 image: "/uploads/Are%20we%20thre%20yet.jpg"
 event date: 2019-01-06 10:00:00 Z
 ---
