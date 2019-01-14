@@ -1,5 +1,5 @@
 ---
-title: CIY MOVE
+title: CIY Move
 date: 2019-01-14 18:25:00 Z
 position: 3
 image: "/uploads/TBC-MOVE-2019.png"
