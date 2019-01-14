@@ -1,6 +1,7 @@
 ---
 title: CIY MOVE
 date: 2019-01-14 18:25:00 Z
+position: 3
 image: "/uploads/TBC-MOVE-2019.png"
 event date: 2019-06-17 00:00:00 Z
 ---
