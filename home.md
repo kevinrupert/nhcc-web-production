@@ -4,11 +4,11 @@ permalink: "/"
 position: 0
 Block 1 title: SERVICE CANCELLED FOR 1/20
 Block 1 text: |-
-  As you’ve likely seen/heard, the National Weather Service is issuing a Winter Storm Watch for this weekend. It will likely involve combinations of freezing rain, ice, and substantial snowfall.
+  As you’ve likely heard, the National Weather Service is issuing a Winter Storm Watch for this weekend. It will likely involve combinations of freezing rain, ice, and substantial snowfall.
 
-  Therefore, due to the incoming storm AND the timing, NHCC has decided to CANCEL CHURCH SERVICE THIS Sunday morning, January 20, 2019. We believe it is in the best interest of the church community to consider the potential safety risks incurred by having a service. This early decision gives us ample time to communicate and prevent anyone from making an unnecessary trip, and also helps to ease the burden of the ongoing renovations, as our contractors will be moving the pews for us.
+  Therefore, due to the incoming storm AND the timing, NHCC has decided to CANCEL CHURCH SERVICE THIS Sunday, Jan. 20, 2019. We believe it is in the best interest to consider the potential safety risks incurred by having a service. This early decision gives us ample time to communicate and prevent anyone from making an unnecessary trip. It also helps ease the burden of the ongoing renovations, as our contractors will be moving the pews for us.
 
-  **IMPORTANT NOTE: The Youth Event planned for Sunday evening WILL still happen. We will notify individuals by email of there is a change.**
+  *IMPORTANT NOTE: The Youth Event planned for Sunday night WILL still happen. We will notify individuals by email if there is a change.*
 Block 1 image: "/uploads/63A8BC9C-B851-4DE1-916E-9808A5C13602.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
