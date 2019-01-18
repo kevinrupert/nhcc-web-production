@@ -2,15 +2,14 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Current Message Series
-Block 1 text: "“Are We There Yet?”  We’ve all been on those adventurous road trips—maybe
-  with family, maybe with a group of friends…the landscapes may vary, but the experiences
-  and “markers” along the way become part of who we are.  The scriptures give us a
-  picture of faith as an ongoing journey, and here at NHCC, we get to take that adventure
-  together!  This message series will look at some of the most essential and foundational
-  “markers” we want to let shape us as a church along this shared journey, as well
-  as challenge us personally to become more like Jesus.\n"
-Block 1 image: "/uploads/1.8graphic%20front%20page.jpg"
+Block 1 title: SERVICES CANCELLED FOR THIS SUNDAY, JANUARY 20TH
+Block 1 text: |-
+  As many of you have likely seen and heard, the National Weather Service is issuing a Winter Storm Watch for this weekend.  It may involve changing conditions, but we are being told it WILL involve combinations of freezing rain, ice, and substantial snowfall.
+
+  Therefore, due to both the incoming storm AND the timing, which looks to continue well through the day Sunday, NHCC has decided to CANCEL CHURCH SERVICE THIS Sunday morning, January 20, 2019. We believe it is in the best interest of the church community to consider the potential safety risks incurred by having a service. This early decision not only gives us ample time to communicate and prevent anyone from making an unnecessary trip, but it also helps to ease the burden of the ongoing renovations, as some of our contractors in the building today will be taking care of moving the pews for us.
+
+  **ANOTHER IMPORTANT NOTE: As of now, the Youth Event planned for Sunday evening WILL still happen. We will notify individuals by email of there is a change.**
+Block 1 image: "/uploads/149C695B-1ABB-4C7F-87A6-C36E9B20C6F8.png"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
