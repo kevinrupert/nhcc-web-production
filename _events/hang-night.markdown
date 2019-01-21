@@ -1,6 +1,7 @@
 ---
 title: Hang Night
 date: 2019-01-02 17:02:00 Z
+published: false
 position: 1
 image: "/uploads/Game%20Board.jpg"
 event date: 2019-01-20 18:00:00 Z
