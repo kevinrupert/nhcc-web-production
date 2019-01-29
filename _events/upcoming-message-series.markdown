@@ -5,3 +5,4 @@ image: "/uploads/front%20page.jpg"
 event date: 2019-02-17 00:00:00 Z
 ---
 
+We all need “Whitespace” in our lives—like margin on paper, or like slack in the chain—Yet too often, the foundational things our lives most desperately need are left out because our “whitespace” is already filled.  Join us for this five week series as we seek to evaluate and re-order our priorities to make room for what matters.
