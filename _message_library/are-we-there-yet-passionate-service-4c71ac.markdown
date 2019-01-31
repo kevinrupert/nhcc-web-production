@@ -4,5 +4,6 @@ date: 2019-01-31 14:44:00 Z
 speaker: Ethan Harrington
 media: https://www.youtube.com/embed/ZfbC2mWqXxA
 message_date: 2019-01-27 10:00:00 Z
+image: 
 ---
 
