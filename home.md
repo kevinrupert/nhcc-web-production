@@ -8,7 +8,7 @@ Block 1 text: We all need “Whitespace” in our lives—like margin on paper, 
   need are left out because our “whitespace” is already filled.  Join us for this
   five week series as we seek to evaluate and re-order our priorities to make room
   for what matters.
-Block 1 image: "/uploads/front%20page-037c71.jpg"
+Block 1 image: "/uploads/front%20page.jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
