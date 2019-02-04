@@ -3,14 +3,12 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: Current Message Series
-Block 1 text: "“Are We There Yet?”  We’ve all been on those adventurous road trips—maybe
-  with family, maybe with a group of friends…the landscapes may vary, but the experiences
-  and “markers” along the way become part of who we are.  The scriptures give us a
-  picture of faith as an ongoing journey, and here at NHCC, we get to take that adventure
-  together!  This message series will look at some of the most essential and foundational
-  “markers” we want to let shape us as a church along this shared journey, as well
-  as challenge us personally to become more like Jesus."
-Block 1 image: "/uploads/1.8graphic%20front%20page.jpg"
+Block 1 text: We all need “Whitespace” in our lives—like margin on paper, or like
+  slack in the chain—Yet too often, the foundational things our lives most desperately
+  need are left out because our “whitespace” is already filled.  Join us for this
+  five week series as we seek to evaluate and re-order our priorities to make room
+  for what matters.
+Block 1 image: "/uploads/front%20page-037c71.jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
