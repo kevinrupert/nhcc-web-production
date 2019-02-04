@@ -1,5 +1,5 @@
 ---
-title: 'Are We There Yet?: Passionate Service'
+title: 'Are We There Yet?: "Passionate Service"'
 date: 2019-01-31 14:44:00 Z
 position: 1
 speaker: Ethan Harrington
