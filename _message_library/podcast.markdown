@@ -7,3 +7,4 @@ media: <iframe src="https://widget.spreaker.com/player?show_id=3314335&theme=lig
 media2: <script async src="https://widget.spreaker.com/widgets.js"></script>
 ---
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
