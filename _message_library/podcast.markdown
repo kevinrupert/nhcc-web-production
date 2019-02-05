@@ -9,6 +9,6 @@ media: <a class="spreaker-player" href="https://www.spreaker.com/show/are-we-the
   data-chapters-image="false" data-episode-image-position="right" data-hide-logo="false"
   data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/25147444b1820f9cedf7ab98ec3e531f.jpg">Listen
   to "Are We There Yet?" on Spreaker.</a>
-BODY: <script async src="https://widget.spreaker.com/widgets.js"></script>
+MEDIA: <script async src="https://widget.spreaker.com/widgets.js"></script>
 ---
 
