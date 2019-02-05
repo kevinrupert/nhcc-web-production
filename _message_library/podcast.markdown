@@ -1,7 +1,6 @@
 ---
 title: Podcast
 date: 2019-02-05 18:08:00 Z
-published: false
 position: 1
 media: <a class="spreaker-player" href="https://www.spreaker.com/show/are-we-there-yet_1"
   data-resource="show_id=3314335" data-width="20%" data-height="150px" data-theme="light"
