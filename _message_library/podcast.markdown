@@ -5,3 +5,4 @@ position: 1
 mp3: https://www.spreaker.com/show/3314335/episodes/feed
 ---
 
+Prefer to listen on the Go?  Check out our podcast [HERE](https://www.spreaker.com/show/3314335/episodes/feed)
