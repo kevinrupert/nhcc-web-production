@@ -7,6 +7,7 @@ link_speaker: <a class="spreaker-player" href="https://www.spreaker.com/show/are
   data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false"
   data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false"
   data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/25147444b1820f9cedf7ab98ec3e531f.jpg">Listen
-  to "Are We There Yet?" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
+  to "Are We There Yet?" on Spreaker.</a>
 ---
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
