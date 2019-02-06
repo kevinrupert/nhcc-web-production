@@ -14,6 +14,10 @@ link_blog: '[spreaker type=player resource="show_id=3314335" width="20%" height=
   theme="light" playlist="false" playlist-continuous="false" autoplay="false" live-autoplay="false"
   chapters-image="true" episode-image-position="right" hide-logo="false" hide-likes="false"
   hide-comments="false" hide-sharing="false" cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/25147444b1820f9cedf7ab98ec3e531f.jpg"]'
+media: '[spreaker type=player resource="show_id=3314335" width="20%" height="150px"
+  theme="light" playlist="false" playlist-continuous="false" autoplay="false" live-autoplay="false"
+  chapters-image="true" episode-image-position="right" hide-logo="false" hide-likes="false"
+  hide-comments="false" hide-sharing="false" cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/25147444b1820f9cedf7ab98ec3e531f.jpg"]'
 ---
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
