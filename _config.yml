@@ -11,6 +11,10 @@ collections:
   message_library:
     title: Messages
     output: false
+  family-posts:
+    title: Posts
+    output: true
+    Blog Post: This is a test of our future blog possibilities.
   posts:
     title: Posts
     output: true
