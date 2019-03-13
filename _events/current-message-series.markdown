@@ -1,6 +1,7 @@
 ---
 title: Current Message Series
 date: 2019-01-29 19:08:00 Z
+position: 1
 image: "/uploads/white%20space%20graphics.001.jpeg"
 event date: 2019-02-17 10:00:00 Z
 ---
