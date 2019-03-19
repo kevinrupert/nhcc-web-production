@@ -1,5 +1,5 @@
 ---
-title: Upcoming Message Series
+title: New Message Series
 date: 2019-03-19 17:23:00 Z
 image: "/uploads/doppleganger%20graphics.001.jpeg"
 event date: 2019-03-31 00:00:00 Z
