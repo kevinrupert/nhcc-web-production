@@ -11,8 +11,7 @@ Small Groups image: "/uploads/placeholder.svg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/placeholder.svg"
-Needs headline:
-  Key 1: Have a need?
+Needs headline: Have a need?
 Needs image: "/uploads/placeholder.svg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
