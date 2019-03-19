@@ -13,6 +13,7 @@ Missions headline: We support missionaries making Jesus followers both locally a
 Missions image: "/uploads/placeholder.svg"
 Needs headline: Have a Prayer Request? Email prayer@northhillschristian.church
 Needs image: "/uploads/PRAYER%20WEB%20WIDE.001.jpeg"
+Needs sign up email: prayer@northhillschristian.church
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
 Give image: "/uploads/give-hero.jpg"
