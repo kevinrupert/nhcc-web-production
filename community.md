@@ -11,7 +11,7 @@ Small Groups image: "/uploads/placeholder.svg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/placeholder.svg"
-Prayer headline: Have a Prayer Request?
+Needs headline: Have a Prayer Request?
 Prayer image: "/uploads/placeholder.svg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
