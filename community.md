@@ -12,7 +12,7 @@ Missions headline: We support missionaries making Jesus followers both locally a
   globally.
 Missions image: "/uploads/placeholder.svg"
 Needs headline: Have a Prayer Request? Email prayer@northhillschristian.church
-Needs image:
+Needs:
 - name: Have a Prayer Request? Email us at
   link: prayer@northhillschristian.church
 Needs sign up email: prayer@northhillschristian.church
