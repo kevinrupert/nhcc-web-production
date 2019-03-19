@@ -4,7 +4,7 @@ permalink: "/prayer"
 position: 9
 header image: "/uploads/placeholder.svg"
 Field name: 
-layout: community
+layout: needs
 ---
 
 Have a prayer request? Submit it here. 
