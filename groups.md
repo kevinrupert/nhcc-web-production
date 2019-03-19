@@ -7,4 +7,4 @@ sign up email: info@northhillschristian.church
 layout: groups
 ---
 
-NHCC Groups meet during five different days of the week. We have groups dedicated to different stages of life. We have groups dedicated to women and men. We have groups that are focused on getting you to be a better follower of Jesus while doing the things you already love.
+Here at NHCC, we believe that life is best done together.  We find our identity and value within Christ-anchored community.  We offer a variety of small groups, each with different functions, but ultimately all pointing us to love God and love one another
