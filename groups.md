@@ -2,7 +2,7 @@
 title: North Hills Christian Church | Small Groups
 permalink: "/groups"
 position: 6
-header image: "/uploads/PRAYER%20WEB%20WIDE.001.jpeg"
+header image: "/uploads/small%20groups%20web.001.jpeg"
 sign up email: info@northhillschristian.church
 layout: groups
 ---
