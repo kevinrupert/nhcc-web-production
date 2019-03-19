@@ -7,12 +7,12 @@ Community2Community headline: Our church family follows Jesus in reaching out fr
 Community2Community image: "/uploads/comm2comm-hero.jpg"
 Small Groups headline: Small Groups are the core of our gathering and learning outside
   the regular worship service.
-Small Groups image: "/uploads/placeholder.svg"
+Small Groups image: "/uploads/NHCC-GROUPS-WEBSITE.jpg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/placeholder.svg"
-Needs headline: Have a need? We’re here to help.
-Needs image: "/uploads/needs-hero-02e7af.jpg"
+Prayer headline: Have a Prayer Request?
+Needs image: "/uploads/placeholder.svg"
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
 Give image: "/uploads/give-hero.jpg"
