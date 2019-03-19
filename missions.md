@@ -17,6 +17,8 @@ global:
   link: https://www.ides.org/
 - name: Ivory Coast Christian Mission
   link: http://themissionsnetwork.com/index.php/news-prayer-letters-from-ministries-missionaries/95-africa/ivory-coast-christian-mission
+- name: Global Outreach International
+  link: https://globaloutreach.org/giving/missionary-details/mark-and-krista-haley
 layout: missions
 ---
 
