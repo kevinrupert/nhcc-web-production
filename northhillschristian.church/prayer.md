@@ -6,4 +6,4 @@ header image: "/uploads/placeholder.svg"
 layout: needs
 ---
 
-Have a prayer request? Submit it here. 
+Have a prayer request? Submit it [here](information@northhillschristian.church). 
