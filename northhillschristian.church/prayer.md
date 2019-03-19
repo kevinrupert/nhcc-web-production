@@ -1,6 +1,6 @@
 ---
 title: North Hills Christian Church | Prayer
-permalink: "/prayer"
+permalink: "/needs"
 position: 9
 header image: "/uploads/placeholder.svg"
 Field name: 
