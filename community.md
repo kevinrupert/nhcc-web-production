@@ -10,7 +10,7 @@ Small Groups headline: Small Groups are the core of our gathering and learning o
 Small Groups image: "/uploads/small%20groups%20web.001.jpeg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
-Missions image: "/uploads/JK2_6619c.jpg"
+Missions image: "/uploads/missions.jpg"
 Needs headline: Have a Prayer Request? Email prayer@northhillschristian.church
 Needs image: "/uploads/PRAYER%20WEB%20WIDE.001.jpeg"
 Needs sign up email: prayer@northhillschristian.church
