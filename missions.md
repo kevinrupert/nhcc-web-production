@@ -2,7 +2,7 @@
 title: North Hills Christian Church | Missions
 permalink: "/missions"
 position: 7
-header image: "/uploads/placeholder.svg"
+header image: "/uploads/missions.jpg"
 local:
 - name: His Place Community Center
   link: http://www.hisplacecc.org/
