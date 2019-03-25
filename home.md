@@ -2,13 +2,12 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Current Message Series
-Block 1 text: We all need “Whitespace” in our lives—like margin on paper, or like
-  slack in the chain—Yet too often, the foundational things our lives most desperately
-  need are left out because our “whitespace” is already filled.  Join us for this
-  five week series as we seek to evaluate and re-order our priorities to make room
-  for what matters.
-Block 1 image: "/uploads/white%20space%20small%20words.jpeg"
+Block 1 title: New Message Series
+Block 1 text: "We all have things we say we believe and are important to us. But what
+  if our beliefs and ethics weren’t defined by what we say, but instead by how we
+  actually live our daily lives?  What stories would our lives and decisions tell
+  about us and what is important to us? \n"
+Block 1 image: "/uploads/doppleganger%20graphics.001-780999.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
