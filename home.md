@@ -8,7 +8,7 @@ Block 1 text: "“Doppelgänger — Confronting Your Shadow”, starting next Su
   and ethics weren’t defined by what we say, but instead by how we actually live our
   daily lives?  What stories would our lives and decisions tell about us and what
   is important to us? \n"
-Block 1 image: "/uploads/doppleganger%20graphics.001-780999.jpeg"
+Block 1 image: "/uploads/doppleganger%20web.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
