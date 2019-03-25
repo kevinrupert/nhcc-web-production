@@ -3,10 +3,11 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: New Message Series
-Block 1 text: "We all have things we say we believe and are important to us. But what
-  if our beliefs and ethics weren’t defined by what we say, but instead by how we
-  actually live our daily lives?  What stories would our lives and decisions tell
-  about us and what is important to us? \n"
+Block 1 text: "“Doppelgänger — Confronting Your Shadow”, starting next Sunday. We
+  all have things we say we believe and are important to us. But what if our beliefs
+  and ethics weren’t defined by what we say, but instead by how we actually live our
+  daily lives?  What stories would our lives and decisions tell about us and what
+  is important to us? \n"
 Block 1 image: "/uploads/doppleganger%20graphics.001-780999.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
