@@ -11,7 +11,8 @@ Small Groups image: "/uploads/small%20groups%20web.001.jpeg"
 Missions headline: We support missionaries making Jesus followers both locally and
   globally.
 Missions image: "/uploads/missions%201.jpg"
-Needs headline: Have a Need?
+Needs headline: Have a Need? Fill out the form and someone will be in contact with
+  you.
 Needs image: "/uploads/needs-hero-02e7af.jpg"
 Needs sign up email: prayer@northhillschristian.church
 Give headline: Our church relies on the generosity of donors to fulfill the mission
