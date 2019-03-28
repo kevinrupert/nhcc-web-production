@@ -3,7 +3,7 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: New Message Series
-Block 1 text: "“Doppelgänger — Confronting Your Shadow”, starting next Sunday. We
+Block 1 text: "“Doppelgänger — Confronting Your Shadow”, starting this Sunday. We
   all have things we say we believe and are important to us. But what if our beliefs
   and ethics weren’t defined by what we say, but instead by how we actually live our
   daily lives?  What stories would our lives and decisions tell about us and what
