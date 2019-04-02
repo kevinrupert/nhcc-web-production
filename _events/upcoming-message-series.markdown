@@ -1,6 +1,7 @@
 ---
 title: Current Message Series
 date: 2019-03-19 17:23:00 Z
+position: 0
 image: "/uploads/doppleganger%20web.001.jpeg"
 event date: 2019-03-31 10:00:00 Z
 ---
