@@ -2,7 +2,7 @@
 title: Elkhorn Chrsitian Camp
 date: 2019-04-02 16:10:00 Z
 position: 3
-image: "/uploads/IMG_9408.JPG"
+image: "/uploads/elkhorn.png"
 event date: 2019-06-16 00:00:00 Z
 Questions: katie@northhillschristian.church
 ---
