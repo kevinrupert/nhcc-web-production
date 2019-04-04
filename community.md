@@ -18,6 +18,8 @@ Needs sign up email: prayer@northhillschristian.church
 Give headline: Our church relies on the generosity of donors to fulfill the mission
   of making Jesus followers of the whole family.
 Give image: "/uploads/give-hero.jpg"
+Prayer headline: Have Prayer Request? Email Prayer@northhillschristian.church
+Prayer image: "/uploads/PRAYER%20WEB%20WIDE.001.jpeg"
 Church Calendar headline: Check out what's happening each month at NHCC.
 Church Calendar image: "/uploads/NHCC-August2018-Calendar.jpg"
 layout: community
