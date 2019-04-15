@@ -1,5 +1,5 @@
 ---
-title: Current Message Series
+title: Current Message Series - Easter Sunday
 date: 2019-03-19 17:23:00 Z
 position: 0
 image: "/uploads/series%20graphic.001.jpeg"
