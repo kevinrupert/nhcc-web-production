@@ -2,7 +2,7 @@
 title: Greater Than/Less Than
 date: 2019-04-22 15:01:00 Z
 speaker: Ethan Harrington
-media: https://youtu.be/NQf1kSGSykQ
+media: https://www.youtube.com/embed/NQf1kSGSykQ
 message_date: 2019-04-21 11:00:00 Z
 ---
 
