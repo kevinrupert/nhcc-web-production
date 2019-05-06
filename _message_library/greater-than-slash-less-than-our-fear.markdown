@@ -1,5 +1,5 @@
 ---
-title: 'Greater Than/Less Than: Our Fear'
+title: Greater Than/Less Than...Our Fear
 date: 2019-04-29 14:33:00 Z
 position: 1
 speaker: Ethan Harrington
