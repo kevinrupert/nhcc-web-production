@@ -1,7 +1,7 @@
 ---
 title: 'Are We There Yet?: "Biblical Authority"'
 date: 2019-01-09 01:57:00 Z
-position: 14
+position: 15
 speaker: Ethan Harrington
 message title: Biblical Authority
 media: https://www.youtube.com/embed/GTb8g9fLd4s
