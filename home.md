@@ -2,12 +2,14 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Current Message Series
-Block 1 text: |+
-  We are so accustomed to communicating in superlatives and extremes, aren’t we? “I am SO INCREDIBLY hungry!” “This is the WORST coffee ever!” “That new Netflix series is LIFE-CHANGING!”  We have cheapened what it really means to be great… and what it really means to be lacking. In this series we will look at who God is in contrast with what we often let define and shape us… and ultimately see what is Greater, and what is Lesser.
-
-
-Block 1 image: "/uploads/greater%20than%20slides.002.jpeg"
+Block 1 title: New Message Series
+Block 1 text: The idea of "The Seven Deadly Sins” has been around for a long time—their
+  classification was loosely developed by 3rd century monks—but their strongholds
+  in our modern world are as current as ever.  Join us beginning June 2nd for this
+  7-week summer series that will have some fun pairing each sin with a corresponding
+  social media platform or online outlet…but as we also seek to courageously address
+  these destructive tendencies in our own lives.
+Block 1 image: "/uploads/7%20deadly%20sins%20front%20page.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
