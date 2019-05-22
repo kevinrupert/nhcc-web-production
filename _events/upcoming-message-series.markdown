@@ -2,7 +2,7 @@
 title: New Message Series
 date: 2019-03-19 17:23:00 Z
 position: 0
-image: "/uploads/7%20deadly%20sins%20graphics.002.jpeg"
+image: "/uploads/7%20deadly%20sins%20graphics.001.jpeg"
 event date: 2019-06-02 10:00:00 Z
 ---
 
