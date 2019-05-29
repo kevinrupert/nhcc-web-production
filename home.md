@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: New Message Series
+Block 1 title: Current Message Series
 Block 1 text: The idea of "The Seven Deadly Sins” has been around for a long time—their
   classification was loosely developed by 3rd century monks—but their strongholds
   in our modern world are as current as ever.  Join us beginning June 2nd for this
