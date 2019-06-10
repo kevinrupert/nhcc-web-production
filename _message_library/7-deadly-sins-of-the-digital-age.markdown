@@ -1,5 +1,5 @@
 ---
-title: 7 Deadly Sins of the Digital Age
+title: '7 Deadly Sins of the Digital Age: An Introduction'
 date: 2019-06-03 16:20:00 Z
 position: 0
 speaker: Ethan Harrington
