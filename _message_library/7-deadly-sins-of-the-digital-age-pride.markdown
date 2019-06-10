@@ -1,5 +1,5 @@
 ---
-title: '7 Deadly Sins of the Digital Age: Pride'
+title: '7 Deadly Sins of the Digital Age: Pride (Facebook)'
 date: 2019-06-10 15:31:00 Z
 position: 0
 speaker: Ethan Harrington
