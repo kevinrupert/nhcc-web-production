@@ -1,5 +1,5 @@
 ---
-title: '7 Deadly Sins of the Digital Age: Glutton (Instagram)'
+title: '7 Deadly Sins of the Digital Age: Gluttony (Instagram)'
 date: 2019-06-17 14:54:00 Z
 speaker: Ethan Harrington
 media: https://www.youtube.com/embed/L0biIZRMpug
