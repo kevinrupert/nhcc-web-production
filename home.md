@@ -23,7 +23,7 @@ Block 3 image: "/uploads/family-hero.jpg"
 Block 3 link title: Learn More
 Block 3 link: "/family"
 Block 4 title: Events
-Block 4 text: Following Jesus means being around people who are like Jesus.
+Block 4 text: Following Jesus includes connecting with people from all walks of life.
 Block 4 image: "/uploads/events-hero.jpg"
 Block 4 link title: Learn More
 Block 4 link: "/events"
