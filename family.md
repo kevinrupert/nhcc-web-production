@@ -8,9 +8,9 @@ Kids text: |-
 
   Caring for your children is a big responsibility, which is why we employ a national background check company to assure the safety of all teaching volunteers over the age of 18.
 Kids ask a question: katie@northhillschristian.church
-Students text: NHCC Students is committed to making Jesus followers of 6th-12th grade
+Students text: 'NHCC Students is committed to making Jesus followers of 6th-12th grade
   students. NHCC Students learn together each Sunday morning during our regular service
-  with worship, a culturally engaging message and small groups.
+  with their families, or by serving in one of the many opportunities available.  '
 Students ask a question: katie@northhillschristian.church
 layout: family
 ---
