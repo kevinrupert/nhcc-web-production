@@ -7,4 +7,4 @@ sign up email: info@northhillschristian.church
 layout: groups
 ---
 
-Here at NHCC, we believe that life is best done together.  We find our identity and value within Christ-anchored community.  We offer a variety of small groups, each with different functions, but ultimately all pointing us to love God and love one another
+Here at NHCC, we believe that life is best done together.  We find our identity and value within Christ-anchored community.  We offer a variety of small groups, each with different functions, but ultimately all pointing us to love God and love one another.
