@@ -1,10 +1,8 @@
 ---
 title: '7 Deadly Sins of the Digital Age: Wrath (Twitter)'
 date: 2019-07-08 12:14:00 Z
-speaker: Ethan Harrington  If I type something here will it show up and how does it
-  look?
+speaker: Ethan Harrington
 media: https://www.youtube.com/embed/w04kJFzJx5g
 message_date: 2019-07-07 10:00:00 Z
 ---
 
-If I type something here does it show up?
