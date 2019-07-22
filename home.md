@@ -2,14 +2,14 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Current Message Series
-Block 1 text: The idea of "The Seven Deadly Sins” has been around for a long time—their
-  classification was loosely developed by 3rd century monks—but their strongholds
-  in our modern world are as current as ever.  Join us for this summer series where
-  we will have some fun pairing each sin with a corresponding social media platform
-  or online outlet…but we will also seek to courageously address these destructive
-  tendencies in our own lives.
-Block 1 image: "/uploads/7%20deadly%20sins%20front%20page.jpeg"
+Block 1 title: New Message Series
+Block 1 text: "“Greatest Stories Ever Told”… Stories have always been powerful ways
+  that truth and meaning can come alive through verbal illustration and experience.
+  \ Jesus used everyday stories throughout his earthly ministry, called ‘parables',
+  to communicate truth and meaning about faith and God’s kingdom.  Join us for this
+  series, beginning Sunday, July 28th, as we look at some of Jesus’ parables through
+  the perspectives of some different speakers."
+Block 1 image: "/uploads/Greatest%20Stories%20narrow.002.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
