@@ -1,9 +1,9 @@
 ---
-title: Current Message Series
-date: 2019-03-19 17:23:00 Z
+title: New Message Series
+date: 2019-07-22 11:15:00 Z
 position: 0
-image: "/uploads/7%20deadly%20sins%20graphics.001.jpeg"
-event date: 2019-06-02 10:00:00 Z
+image: "/uploads/Greatest%20Stories.001.jpeg"
+event date: 2019-07-28 10:00:00 Z
 ---
 
-The idea of "The Seven Deadly Sins” has been around for a long time—their classification was loosely developed by 3rd century monks—but their strongholds in our modern world are as current as ever.  Join us for this summer series where we will have some fun pairing each sin with a corresponding social media platform or online outlet…but we will also seek to courageously address these destructive tendencies in our own lives.
+“Greatest Stories Ever Told”… Stories have always been powerful ways that truth and meaning can come alive through verbal illustration and experience.  Jesus used everyday stories throughout his earthly ministry, called ‘parables', to communicate truth and meaning about faith and God’s kingdom.  Join us for this series as we look at some of Jesus’ parables through the perspectives of some different speakers.
