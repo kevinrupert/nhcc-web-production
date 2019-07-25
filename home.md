@@ -7,8 +7,8 @@ Block 1 text: "“Greatest Stories Ever Told”… Stories have always been powe
   that truth and meaning can come alive through verbal illustration and experience.
   \ Jesus used everyday stories throughout his earthly ministry, called ‘parables',
   to communicate truth and meaning about faith and God’s kingdom.  Join us for this
-  series, beginning Sunday, July 28th, as we look at some of Jesus’ parables through
-  the perspectives of some different speakers."
+  series as we look at some of Jesus’ parables through the perspectives of some different
+  speakers."
 Block 1 image: "/uploads/Greatest%20Stories%20narrow.002.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
