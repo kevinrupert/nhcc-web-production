@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: New Message Series
+Block 1 title: Current Message Series
 Block 1 text: "“Greatest Stories Ever Told”… Stories have always been powerful ways
   that truth and meaning can come alive through verbal illustration and experience.
   \ Jesus used everyday stories throughout his earthly ministry, called ‘parables',
