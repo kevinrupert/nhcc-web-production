@@ -1,5 +1,5 @@
 ---
-title: New Message Series
+title: Current Message Series
 date: 2019-07-22 11:15:00 Z
 position: 0
 image: "/uploads/Greatest%20Stories.001.jpeg"
