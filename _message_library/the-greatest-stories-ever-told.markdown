@@ -1,0 +1,8 @@
+---
+title: The Greatest Stories Ever Told
+date: 2019-07-29 09:52:00 Z
+speaker: 'David White '
+media: https://www.youtube.com/embed/m9P3B4wZ3Jk
+message_date: 2019-07-28 10:00:00 Z
+---
+
