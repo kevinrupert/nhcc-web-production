@@ -1,6 +1,7 @@
 ---
 title: Ladies Classic Board Game Night
 date: 2019-07-11 14:15:00 Z
+published: false
 image: "/uploads/announcement%20and%20misc%20graphics%20new.001.jpeg"
 event date: 2019-08-02 19:00:00 Z
 ---
