@@ -2,7 +2,7 @@
 title: Current Message Series
 date: 2019-07-22 11:15:00 Z
 position: 0
-image: "/uploads/Greatest%20Stories.001.jpeg"
+image: "/uploads/Greatest%20Stories.002.jpeg"
 event date: 2019-07-28 10:00:00 Z
 ---
 
