@@ -3,13 +3,13 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: Current Message Series
-Block 1 text: "“Greatest Stories Ever Told”… Stories have always been powerful ways
-  that truth and meaning can come alive through verbal illustration and experience.
-  \ Jesus used everyday stories throughout his earthly ministry, called ‘parables',
-  to communicate truth and meaning about faith and God’s kingdom.  Join us for this
-  series as we look at some of Jesus’ parables through the perspectives of some different
-  speakers."
-Block 1 image: "/uploads/Greatest%20Stories%20narrow.002.jpeg"
+Block 1 text: "“Deep & Wide” - When we are willing to open our eyes and look at the
+  vast picture of God’s church—globally and throughout history—we see an illustration
+  of incredible depth, beauty and richness that far exceeds the confines of any church
+  building. Join us starting next Sunday for this important series as we look at some
+  of the scriptural and historical richness that makes us who we are…and what it calls
+  us to be moving forward."
+Block 1 image: "/uploads/D&W%20Message.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
