@@ -1,7 +1,7 @@
 ---
 title: Man Camp
 date: 2019-08-26 14:30:00 Z
-image: "/uploads/8D33DCC0-BB16-4F45-B735-2741D4D40FBB.PNG"
+image: "/uploads/Man%20Camp%202019.png"
 event date: 2019-10-04 00:00:00 Z
 ---
 
