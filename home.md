@@ -6,9 +6,9 @@ Block 1 title: Current Message Series
 Block 1 text: "“Deep & Wide” - When we are willing to open our eyes and look at the
   vast picture of God’s church—globally and throughout history—we see an illustration
   of incredible depth, beauty and richness that far exceeds the confines of any church
-  building. Join us starting next Sunday for this important series as we look at some
-  of the scriptural and historical richness that makes us who we are…and what it calls
-  us to be moving forward."
+  building. Join us for this important series as we look at some of the scriptural
+  and historical richness that makes us who we are…and what it calls us to be moving
+  forward."
 Block 1 image: "/uploads/D&W%20Message.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
