@@ -1,5 +1,5 @@
 ---
-title: 'Deep and Wide: Upon This Rock'
+title: 'Deep & Wide: Upon This Rock'
 date: 2019-09-03 13:15:00 Z
 speaker: Ethan Harrington
 media: https://www.youtube.com/embed/kKWYjJrDsOU
