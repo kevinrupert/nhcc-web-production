@@ -1,6 +1,7 @@
 ---
 title: Neighborhood Trunk Sale
 date: 2019-08-08 14:30:00 Z
+published: false
 image: "/uploads/Copy%20of%20Copy%20of%20EVENTBRITE.jpg"
 event date: 2019-09-21 08:00:00 Z
 ---
