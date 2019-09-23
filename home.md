@@ -10,8 +10,8 @@ Block 1 text: "“Alongside” - We are living in a hyper-digital age. We are fl
   don't know neighbors. We look for our value by comparing it to the carefully manicured
   versions of humanity we see online. We need real connections with real people. We
   long for genuineness, honesty, & authentic friendships - we're wired to experience
-  life with others, to know and be known - we need community... and the need is urgent.
-  Join us for this message series beginning Sunday, Sept. 29th at 10am."
+  life with others, to know and be known - we need community. Join us for this message
+  series beginning next Sunday, Sept. 29th at 10am."
 Block 1 image: "/uploads/alongside2.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
