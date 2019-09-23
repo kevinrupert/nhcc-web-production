@@ -3,8 +3,8 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: Current Message Series
-Block 1 text: "“Alongside” - We are living in a hyper-digital age. We are flooded
-  with more information than we can file, more news than we can react to, more advertisements
+Block 1 text: "“Alongside” - We live in a hyper-digital age. We are flooded with more
+  information than we can file, more news than we can react to, more advertisements
   than we can read, and more online relationships and cyber-connections than we can
   maintain. Yet we are the loneliest and most isolated we have ever been. Neighbors
   don't know neighbors. We look for our value by comparing it to the carefully manicured
