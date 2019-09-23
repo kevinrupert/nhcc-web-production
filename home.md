@@ -3,16 +3,15 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: Current Message Series
-Block 1 text: "“Alongside: The Urgency of Community” - We are living in a hyper-digital
-  age. We are flooded with more information than we can file, more news than we can
-  react to, more advertisements than we can read, and more online relationships and
-  cyber-connections than we can maintain.  Yet we are the loneliest and most isolated
-  we have ever been.  Neighbors don't know neighbors. We look for our value by comparing
-  it to the carefully manicured versions of humaity we see online. We need real connections
-  with real people. We long for genuineness, honesty, and authentic friendships -
-  we were wired to experience life with others, to know and be known - we need community...
-  and the need is urgent. Join us for this message series beginning Sunday, Sept.
-  29th at 10am."
+Block 1 text: "“Alongside” - We are living in a hyper-digital age. We are flooded
+  with more information than we can file, more news than we can react to, more advertisements
+  than we can read, and more online relationships and cyber-connections than we can
+  maintain. Yet we are the loneliest and most isolated we have ever been. Neighbors
+  don't know neighbors. We look for our value by comparing it to the carefully manicured
+  versions of humanity we see online. We need real connections with real people. We
+  long for genuineness, honesty, & authentic friendships - we're wired to experience
+  life with others, to know and be known - we need community... and the need is urgent.
+  Join us for this message series beginning Sunday, Sept. 29th at 10am."
 Block 1 image: "/uploads/alongside2.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
