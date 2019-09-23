@@ -1,6 +1,7 @@
 ---
 title: Current Message Series
 date: 2019-08-11 14:41:00 Z
+published: false
 position: 0
 image: "/uploads/D&W%20Message.001.jpeg"
 event date: 2019-09-22 10:00:00 Z
