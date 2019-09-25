@@ -11,7 +11,7 @@ Kids ask a question: katie@northhillschristian.church
 Students text: 'NHCC Students is committed to making Jesus followers of 6th-12th grade
   students. NHCC Students learn together each Sunday morning during our regular service
   with their families, or by serving in one of the many opportunities available.  '
-Students ask a question: katie@northhillschristian.church
+Students ask a question: jeff@northhillschristian.church
 layout: family
 ---
 
