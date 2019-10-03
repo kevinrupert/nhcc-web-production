@@ -11,7 +11,7 @@ Block 1 text: "“Alongside” - We live in a hyper-digital age. We are flooded 
   versions of humanity we see online. We need real connections with real people. We
   long for genuineness, honesty, & authentic friendships - we're wired to experience
   life with others, to know and be known - we need community. "
-Block 1 image: "/uploads/alongside2.jpeg"
+Block 1 image: "/uploads/alongside%20title.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
