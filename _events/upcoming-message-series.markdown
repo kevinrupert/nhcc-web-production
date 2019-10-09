@@ -1,10 +1,9 @@
 ---
-title: Current Message Series
+title: New Message Series
 date: 2019-08-11 14:41:00 Z
-published: false
 position: 0
-image: "/uploads/D&W%20Message.001.jpeg"
-event date: 2019-09-22 10:00:00 Z
+image: "/uploads/5%20guys%20w%20color.jpeg"
+event date: 2019-10-20 10:00:00 Z
 ---
 
-When we are willing to open our eyes and look at the vast picture of God’s church—globally and throughout history—we see an illustration of incredible depth, beauty and richness that far exceeds the confines of any church building. Join us for this important series as we look at some of the scriptural and historical richness that makes us who we are…and what it calls us to be moving forward.
+Scattered throughout the Old Testament of the Bible are incredible stories of ordinary guys that encountered God in extraordinary ways. Imagine what could happen in our lives, in our church, in our communities, if we learned to trust God and live by faith the way these guys learned to?  Join us for this 5 week series as we explore together how to live lives of extraordinary faith.
