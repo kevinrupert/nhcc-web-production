@@ -2,16 +2,14 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Current Message Series
-Block 1 text: "“Alongside” - We live in a hyper-digital age. We are flooded with more
-  information than we can file, more news than we can react to, more advertisements
-  than we can read, and more online relationships and cyber-connections than we can
-  maintain. Yet we are the loneliest and most isolated we have ever been. Neighbors
-  don't know neighbors. We look for our value by comparing it to the carefully manicured
-  versions of humanity we see online. We need real connections with real people. We
-  long for genuineness, honesty, & authentic friendships - we're wired to experience
-  life with others, to know and be known - we need community. "
-Block 1 image: "/uploads/alongside%20title.001.jpeg"
+Block 1 title: New Message Series
+Block 1 text: '"5 Guys": Scattered throughout the Old Testament of the Bible are incredible
+  stories of ordinary guys that encountered God in extraordinary ways. Imagine what
+  could happen in our lives, in our church, in our communities, if we learned to trust
+  God and live by faith the way these guys learned to?  Join us, beginning October
+  20th, for this 5 week series as we explore together how to live lives of extraordinary
+  faith.'
+Block 1 image: "/uploads/5_Guys_Program.jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
