@@ -1,6 +1,7 @@
 ---
 title: Current Message Series
 date: 2019-09-23 11:12:00 Z
+published: false
 image: "/uploads/alongside2.jpeg"
 event date: 2019-09-29 10:00:00 Z
 ---
