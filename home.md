@@ -9,7 +9,7 @@ Block 1 text: '"5 Guys": Scattered throughout the Old Testament of the Bible are
   God and live by faith the way these guys learned to?  Join us, beginning October
   20th, for this 5 week series as we explore together how to live lives of extraordinary
   faith.'
-Block 1 image: "/uploads/5_Guys_Program.jpg"
+Block 1 image: "/uploads/Untitled%20design%20(1).jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
