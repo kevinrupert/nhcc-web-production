@@ -1,6 +1,7 @@
 ---
 title: NHCC Students Corn Maze
 date: 2019-10-03 13:30:00 Z
+published: false
 image: "/uploads/Add%20a%20heading.jpg"
 event date: 2019-10-20 15:00:00 Z
 ---
