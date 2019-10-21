@@ -1,5 +1,5 @@
 ---
-title: New Message Series
+title: Current Message Series
 date: 2019-08-11 14:41:00 Z
 position: 0
 image: "/uploads/5%20guys%20w%20color.jpeg"
