@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: New Message Series
+Block 1 title: Current Message Series
 Block 1 text: '"5 Guys": Scattered throughout the Old Testament of the Bible are incredible
   stories of ordinary guys that encountered God in extraordinary ways. Imagine what
   could happen in our lives, in our church, in our communities, if we learned to trust
