@@ -6,9 +6,8 @@ Block 1 title: New Message Series
 Block 1 text: '"5 Guys": Scattered throughout the Old Testament of the Bible are incredible
   stories of ordinary guys that encountered God in extraordinary ways. Imagine what
   could happen in our lives, in our church, in our communities, if we learned to trust
-  God and live by faith the way these guys learned to?  Join us, beginning October
-  20th, for this 5 week series as we explore together how to live lives of extraordinary
-  faith.'
+  God and live by faith the way these guys learned to?  Join us for this 5 week series
+  as we explore together how to live lives of extraordinary faith.'
 Block 1 image: "/uploads/Untitled%20design%20(4).png"
 Block 1 link title: Learn More
 Block 1 link: "/about"
