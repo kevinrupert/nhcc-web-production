@@ -1,6 +1,7 @@
 ---
 title: World Vision Fulfillment
 date: 2018-05-03 16:52:00 Z
+position: 2
 image: "/uploads/world-vision-hero.jpg"
 get involved email: katie@northhillschristian.church
 ---

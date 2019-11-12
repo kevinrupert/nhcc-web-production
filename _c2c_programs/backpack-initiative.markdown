@@ -1,6 +1,7 @@
 ---
 title: Backpack Initiative
 date: 2018-04-16 15:52:00 Z
+position: 4
 image: "/uploads/backpack-hero.jpg"
 get involved email: katie@northhillschristian.church
 ---

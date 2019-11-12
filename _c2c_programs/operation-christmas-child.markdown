@@ -1,6 +1,7 @@
 ---
 title: Operation Christmas Child
 date: 2018-07-19 15:40:00 Z
+position: 3
 image: "/uploads/operationchristmaschild.jpg"
 get involved email: katie@northhillschristian.church
 ---
