@@ -1,5 +1,5 @@
 ---
-title: Days for Girls
+title: Days For Girls
 date: 2019-11-12 04:34:00 Z
 position: 1
 image: "/uploads/Days%20for%20Girls.jpeg"
