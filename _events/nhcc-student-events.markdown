@@ -1,7 +1,7 @@
 ---
 title: NHCC Student Events
 date: 2019-11-14 04:03:00 Z
-image: "/uploads/Copy%20of%20NHCC%20STUDENTS%20COMING%20UP...-3.png"
+image: "/uploads/Copy%20of%20NHCC%20STUDENTS%20COMING%20UP...-5.png"
 event date: 2019-11-24 18:30:00 Z
 ---
 
