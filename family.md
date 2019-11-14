@@ -8,9 +8,11 @@ Kids text: |-
 
   Caring for your children is a big responsibility, which is why we employ a national background check company to assure the safety of all teaching volunteers over the age of 18.
 Kids ask a question: katie@northhillschristian.church
-Students text: NHCC Students is committed to making Jesus followers of 6th-12th grade
-  students. NHCC Students learn together each Sunday evening from 6:30-8pm, or by
-  serving in one of the many opportunities available.  ![NHCC STUDENTS COMING UP....png](/uploads/NHCC%20STUDENTS%20COMING%20UP....png)
+Students text: 'NHCC Students is committed to making Jesus followers of 6th-12th grade
+  students. NHCC Students learn together each Sunday evening from 6:30-8pm. Students
+  are encouraged to join us, and their families, for our Sunday morning worship, or
+  by serving in one of the many opportunities available.  '
+image: "/uploads/NHCC%20STUDENTS%20COMING%20UP....png"
 Students ask a question: jeff@northhillschristian.church
 layout: family
 ---
