@@ -1,7 +1,7 @@
 ---
 title: NHCC Student Events
 date: 2019-11-14 04:03:00 Z
-image: "/uploads/COMING%20UP....png"
+image: "/uploads/students-logo-raspberry.png"
 event date: 2019-11-17 18:30:00 Z
 ---
 
