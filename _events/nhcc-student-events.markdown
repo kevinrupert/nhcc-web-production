@@ -5,7 +5,6 @@ image: "/uploads/students-logo-raspberry.png"
 event date: 2019-12-01 18:30:00 Z
 ---
 
-* Sunday, November 24th  6:30-8pm STUDENT NIGHTS
 
 * Sunday, December 1st **NO STUDENT NIGHTS**
 
