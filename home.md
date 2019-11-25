@@ -9,7 +9,7 @@ Block 1 text: "“The Great Christmas Giveaway” - This holiday season, amidst 
   same message given to humanity 2,000 years ago through a baby born in Bethlehem.
   Be sure and join us NEXT Sunday, Dec 1 as we kick off this series with our Meal
   Pack Event. Visit our Events page for details. Messages begin Sunday, December 8th."
-Block 1 image: "/uploads/4-3%20slides.001.jpeg"
+Block 1 image: "/uploads/TGCG%20narrowed.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
