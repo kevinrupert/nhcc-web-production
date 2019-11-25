@@ -1,5 +1,5 @@
 ---
-title: Current Message Series
+title: New Message Series
 date: 2019-08-11 14:41:00 Z
 published: false
 position: 0
