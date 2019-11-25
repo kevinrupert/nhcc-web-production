@@ -1,6 +1,7 @@
 ---
 title: Current Message Series
 date: 2019-08-11 14:41:00 Z
+published: false
 position: 0
 image: "/uploads/5%20guys%20w%20color.jpeg"
 event date: 2019-10-20 10:00:00 Z
