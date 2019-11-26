@@ -6,9 +6,7 @@ event date: 2019-12-01 18:30:00 Z
 ---
 
 
-* Sunday, December 1st **NO STUDENT NIGHTS**
-
-* Saturday, December 7th 12:15p-4:30pm Babysitting For Brenna
+* Sunday, December 1st ****NO STUDENT NIGHTS****
 
 * Sunday, December 8th 9:30 & 11am Backpack Initiative Xmas Treat Bags (Lobby)
 
