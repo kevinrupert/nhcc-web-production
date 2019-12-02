@@ -7,8 +7,7 @@ Block 1 text: "“The Great Christmas Giveaway” - This holiday season, amidst 
   of consumerism, materialism and greed, we will intentionally aim to encounter and
   live out God’s message of hope, renewal and healing through giving and serving…the
   same message given to humanity 2,000 years ago through a baby born in Bethlehem.
-  Be sure and join us NEXT Sunday, Dec 1 as we kick off this series with our Meal
-  Pack Event. Visit our Events page for details. Messages begin Sunday, December 8th."
+  Messages begin Sunday, December 8th."
 Block 1 image: "/uploads/TGCG%20narrowed.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
