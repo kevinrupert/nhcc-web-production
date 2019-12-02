@@ -5,9 +5,6 @@ image: "/uploads/students-logo-raspberry.png"
 event date: 2019-12-01 18:30:00 Z
 ---
 
-
-* Sunday, December 1st ****NO STUDENT NIGHTS****
-
 * Sunday, December 8th 9:30 & 11am Backpack Initiative Xmas Treat Bags (Lobby)
 
 * Sunday, December 8th 6:30-8pm NHCC Student Nights (Backpack Initiative Packing)
