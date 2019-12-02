@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: Upcoming Message Series
+Block 1 title: New Message Series
 Block 1 text: "“The Great Christmas Giveaway” - This holiday season, amidst a flood
   of consumerism, materialism and greed, we will intentionally aim to encounter and
   live out God’s message of hope, renewal and healing through giving and serving…the
