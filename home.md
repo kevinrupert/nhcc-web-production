@@ -6,8 +6,7 @@ Block 1 title: New Message Series
 Block 1 text: "“The Great Christmas Giveaway” - This holiday season, amidst a flood
   of consumerism, materialism and greed, we will intentionally aim to encounter and
   live out God’s message of hope, renewal and healing through giving and serving…the
-  same message given to humanity 2,000 years ago through a baby born in Bethlehem.
-  Messages begin Sunday, December 8th."
+  same message given to humanity 2,000 years ago through a baby born in Bethlehem. "
 Block 1 image: "/uploads/TGCG%20narrowed.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
