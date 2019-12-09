@@ -8,6 +8,6 @@ sign up: https://www.eventbrite.com/e/gifted-registration-78416494847
 
 Children up through 6th grade and their families are invited to join us in our Winter Wonderland Saturday, December 14, 2019. Wander through our maze of decorated spaces and create crafts, decorate cookies, play games, enjoy science experiments, experience storytelling, and join in our caroling sing-a-long. 
 
-The event is FREE but registration is required to ensure that we have enough materials for everyone to participate. Questions? Contact Katie Knox at Katie@northhillschristian.church
+Registration is now closed. Contact Katie Knox at Katie@northhillschristian.church with questions.
 
 To Volunteer, click [HERE](https://www.signupgenius.com/go/70A054DAEAA22A7F85-gifted).
