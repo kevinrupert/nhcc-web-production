@@ -1,7 +1,7 @@
 ---
 title: Family Sunday Brunch
 date: 2019-12-11 04:58:00 Z
-published: false
+image: "/uploads/BRUNCH.001.jpeg"
 event date: 2019-12-29 10:00:00 Z
 ---
 
