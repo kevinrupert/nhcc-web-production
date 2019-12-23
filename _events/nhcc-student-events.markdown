@@ -1,7 +1,7 @@
 ---
 title: NHCC Student Events
 image: "/uploads/students-logo-raspberry.png"
-event date: 2019-12-22 18:30:00 Z
+event date: 2019-12-29 18:30:00 Z
 ---
 
 * Sunday, December 29th  - NO NHCC STUDENT NIGHTS 
