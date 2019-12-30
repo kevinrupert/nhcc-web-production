@@ -1,10 +1,10 @@
 ---
 title: New Message Series
-date: 2019-08-11 14:41:00 Z
+date: 2019-08-11 02:41:00 Z
 published: false
 position: 0
-image: "/uploads/TGCG%20narrowed.001.jpeg"
-event date: 2019-12-08 10:00:00 Z
+image: "/uploads/LTA%20upcoming.jpeg"
+event date: 2020-01-12 10:00:00 Z
 ---
 
-“The Great Christmas Giveaway” - This holiday season, amidst a flood of consumerism, materialism and greed, we will intentionally aim to encounter and live out God’s message of hope, renewal and healing through giving and serving…the same message given to humanity 2,000 years ago through a baby born in Bethlehem.
+“Living The Adventure” - Matthew 28 tells us to go and make disciples of all nations. Jesus' charge is not about focusing on ourselves, but about joining a movement of multiplication that will expand His kingdom locally, globally and personally. When we move together on God's mission to reach the world, lives are changed. Incredible things happen when we are living the adventure. Join us beginning January 12th for this series. 

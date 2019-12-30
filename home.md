@@ -3,11 +3,13 @@ title: North Hills Christian Church
 permalink: "/"
 position: 0
 Block 1 title: New Message Series
-Block 1 text: "“The Great Christmas Giveaway” - This holiday season, amidst a flood
-  of consumerism, materialism and greed, we will intentionally aim to encounter and
-  live out God’s message of hope, renewal and healing through giving and serving…the
-  same message given to humanity 2,000 years ago through a baby born in Bethlehem. "
-Block 1 image: "/uploads/TGCG%20narrowed.001.jpeg"
+Block 1 text: "“Living The Adventure” - Matthew 28 tells us to go and make disciples
+  of all nations. Jesus' charge is not about focusing on ourselves, but about joining
+  a movement of multiplication that will expand His kingdom locally, globally and
+  personally. When we move together on God's mission to reach the world, lives are
+  changed. Incredible things happen when we are living the adventure. Join us beginning
+  January 12th for this series."
+Block 1 image: "/uploads/LTA%20upcoming.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
