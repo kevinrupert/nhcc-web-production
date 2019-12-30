@@ -9,7 +9,7 @@ Block 1 text: "“Living The Adventure” - Matthew 28 tells us to go and make d
   personally. When we move together on God's mission to reach the world, lives are
   changed. Incredible things happen when we are living the adventure. Join us beginning
   January 12th for this series."
-Block 1 image: "/uploads/Untitled%20design.png"
+Block 1 image: "/uploads/Living%20the%20Adventure_Message.jpg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
