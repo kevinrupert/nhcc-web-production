@@ -2,7 +2,7 @@
 title: Current Message Series
 date: 2019-08-11 02:41:00 Z
 position: 0
-image: "/uploads/Living%20the%20Adventure_Message-793408.jpg"
+image: "/uploads/Screen%20Shot%202019-12-30%20at%201.27.42%20PM.png"
 event date: 2020-01-12 10:00:00 Z
 ---
 
