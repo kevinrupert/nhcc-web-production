@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: New Message Series
+Block 1 title: " Current Message Series"
 Block 1 text: "“Living The Adventure” - Matthew 28 tells us to go and make disciples
   of all nations. Jesus' charge is not about focusing on ourselves, but about joining
   a movement of multiplication that will expand His kingdom locally, globally and
