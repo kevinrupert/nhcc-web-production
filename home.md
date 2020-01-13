@@ -7,8 +7,7 @@ Block 1 text: "“Living The Adventure” - Matthew 28 tells us to go and make d
   of all nations. Jesus' charge is not about focusing on ourselves, but about joining
   a movement of multiplication that will expand His kingdom locally, globally and
   personally. When we move together on God's mission to reach the world, lives are
-  changed. Incredible things happen when we are living the adventure. Join us beginning
-  January 12th for this series."
+  changed. Incredible things happen when we are living the adventure. "
 Block 1 image: "/uploads/Screen%20Shot%202019-12-30%20at%201.27.42%20PM.png"
 Block 1 link title: Learn More
 Block 1 link: "/about"
