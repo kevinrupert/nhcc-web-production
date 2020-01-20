@@ -7,10 +7,11 @@ event date: 2020-01-26 18:30:00 Z
 
 
 * Sunday, January 26th  - 6:30-8pm NHCC Student Nights
-* Sunday, February 2nd  - 6:30-8pm NHCC Student Nights
+* Sunday, February 2nd  - 11:30-2pmSuper Bowl Cookout 
 * Sunday, February 9th  - 6:30-8pm NHCC Student Nights
 * Sunday, February 16th - 6:30-8pm NHCC Student Nights
 * Sunday, February 23rd - 6:30-8pm NHCC Student Nights
 * Sunday, March 1st     - 6:30-8pm NHCC Student Nights
 * Sunday, March 8th     - 6:30-8pm NHCC Student Nights
+* Saturday, March 14th  - CIY Student Fundraising Banquet PREP
 * Sunday, March 15th    - CIY Student Fundraising Banquet
