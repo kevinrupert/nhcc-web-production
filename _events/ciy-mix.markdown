@@ -1,7 +1,6 @@
 ---
 title: CIY Mix
 date: 2019-01-10 19:10:00 Z
-published: false
 position: 5
 image: "/uploads/Screen_MIX_2020-06.jpg"
 event date: 2019-07-15 00:00:00 Z
