@@ -9,4 +9,4 @@ Grab your grass skirt and join us for a Hawaiian Luau put on by our NHCC Student
  
 Dinner. Music. Live & Silent Auctions. 
 
-Come Support our students in their efforts to attend these amazing faith based events, and have a ton of fun in the process. Tickets are $15 per person and go on sale in. Childcare available.
+Come Support our students in their efforts to attend these amazing faith based events, and have a ton of fun in the process. Tickets are $15 per person and go on sale in February. Childcare available.
