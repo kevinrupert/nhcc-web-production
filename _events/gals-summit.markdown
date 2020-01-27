@@ -10,6 +10,6 @@ Our adventures are often not the ones that we have chosen. Life goes into unplan
  
 You won’t want to miss this weekend of worship, fellowship, and moments where we embrace the adventure. The cost for the weekend is $75 and covers lodging, meals, and main events. 
 
-Join us for this great weekend by signing up below!
+Join us for this great weekend by signing up below! The deadline to sign up is Thursday, February 27th. 
 
 Located between Butler & Prospect, you can find out more about the facilities at Lutherlyn by clicking [here](https://www.lutherlyn.com).
