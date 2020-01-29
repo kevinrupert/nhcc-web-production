@@ -6,7 +6,7 @@ event date: 2020-02-02 11:30:00 Z
 ---
 
 
-* Sunday, February 2nd  - 11:30-2pm Super Bowl Cookout 
+* Sunday, February 2nd  - 11:30-2pm Super Bowl Tailgate 
 * Sunday, February 9th  - 6:30-8pm NHCC Student Nights
 * Sunday, February 16th - 6:30-8pm NHCC Student Nights
 * Sunday, February 23rd - 6:30-8pm NHCC Student Nights
