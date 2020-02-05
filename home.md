@@ -2,13 +2,13 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: " Current Message Series"
-Block 1 text: "“Living The Adventure” - Matthew 28 tells us to go and make disciples
-  of all nations. Jesus' charge is not about focusing on ourselves, but about joining
-  a movement of multiplication that will expand His kingdom locally, globally and
-  personally. When we move together on God's mission to reach the world, lives are
-  changed. Incredible things happen when we are living the adventure. "
-Block 1 image: "/uploads/Screen%20Shot%202019-12-30%20at%201.27.42%20PM.png"
+Block 1 title: New Message Series
+Block 1 text: "“Ain't In There” - Maybe your Grandma said it, maybe it was advice
+  that made you feel better, or maybe you’ve just heard it so much, you assumed it
+  was true. We hear and say things that seem like they’re in the Bible… but are they?
+  Join us beginning Sunday, February 16th as we unpack four commonly quoted statements
+  and find out what the Bible really says."
+Block 1 image: "/uploads/ain't%20in%20there%20bundle.001.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
