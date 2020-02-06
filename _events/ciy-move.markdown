@@ -6,4 +6,4 @@ event date: 2020-06-15 00:00:00 Z
 sign up: https://www.eventbrite.com/e/ciy-move-deposit-tickets-92965120177
 ---
 
-Move is a 5 day youth event for students in grades 9th-12th. Students will travel to Hope College in Holland, MI June 15h-19th. Have questions or want to attend? Submit your $75 deposit below. Contact Jeff Herzberg at Jeff@northhillschristian.church.
+Move is a 5 day youth event for students in grades 9th-12th. Students will travel to Hope College in Holland, MI June 22nd -26th. Have questions or want to attend? Submit your $75 deposit below. Contact Jeff Herzberg at Jeff@northhillschristian.church.
