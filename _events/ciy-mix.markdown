@@ -3,7 +3,7 @@ title: CIY MIX
 date: 2019-01-10 19:10:00 Z
 position: 5
 image: "/uploads/Screen_MIX_2020-06.jpg"
-event date: 2020-07-15 00:00:00 Z
+event date: 2020-07-13 00:00:00 Z
 sign up: https://www.eventbrite.com/e/ciy-mix-deposit-tickets-92252743439
 ---
 
