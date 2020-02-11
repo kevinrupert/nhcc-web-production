@@ -8,7 +8,7 @@ Block 1 text: "“Ain't In There” - Maybe your Grandma said it, maybe it was a
   was true. We hear and say things that seem like they’re in the Bible… but are they?
   Join us beginning Sunday, February 16th as we unpack four commonly quoted statements
   and find out what the Bible really says."
-Block 1 image: "/uploads/ain't%20in%20there%20bundle.001.jpeg"
+Block 1 image: "/uploads/ain't%20in%20there%20bundle.004.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
