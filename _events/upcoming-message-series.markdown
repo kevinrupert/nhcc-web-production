@@ -2,7 +2,7 @@
 title: New Message Series
 date: 2019-08-11 02:41:00 Z
 position: 0
-image: "/uploads/ain't%20in%20there%20bundle.001-ecce4b.jpeg"
+image: "/uploads/ain't%20in%20there%20bundle.004-b0ac76.jpeg"
 event date: 2020-02-16 10:00:00 Z
 ---
 
