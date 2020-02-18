@@ -1,5 +1,5 @@
 ---
-title: Elkhorn Chrsitian Camp
+title: Elkhorn Christian Camp
 date: 2019-04-02 16:10:00 Z
 position: 3
 image: "/uploads/elkhorn.png"
