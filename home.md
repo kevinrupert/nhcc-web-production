@@ -2,7 +2,7 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: New Message Series
+Block 1 title: Current Message Series
 Block 1 text: "“Ain't In There” - Maybe your Grandma said it, maybe it was advice
   that made you feel better, or maybe you’ve just heard it so much, you assumed it
   was true. We hear and say things that seem like they’re in the Bible… but are they?
