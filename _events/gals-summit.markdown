@@ -1,6 +1,7 @@
 ---
 title: Gal's Summit
 date: 2020-01-27 03:20:00 Z
+published: false
 image: "/uploads/Gal's%20Summit%202020.png"
 event date: 2020-03-27 17:30:00 Z
 sign up: https://discovertogether.ccbchurch.com/goto/forms/287/responses/new
