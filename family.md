@@ -17,7 +17,7 @@ Students image: "/uploads/NHCC%20STUDENTS%20COMING%20UP....png"
 Students ask a question: jeff@northhillschristian.church
 Block text: 'All volunteers working with our children and students must have a current
   background check on file. Click here for more information. '
-block link: "/backgroundchecks"
+block link: "/background-checks"
 layout: family
 ---
 
