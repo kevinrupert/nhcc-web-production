@@ -15,6 +15,9 @@ Students text: "NHCC Students is committed to making Jesus followers of 6th-12th
   page to see what's coming up on the NHCC Student Calendar."
 Students image: "/uploads/NHCC%20STUDENTS%20COMING%20UP....png"
 Students ask a question: jeff@northhillschristian.church
+Background text: 'All volunteers working with our children and students must have
+  a current background check on file.  Click [HERE](https://www.ministryopportunities.org/Application.aspx?oid=64157)
+  to have your background check completed.  '
 layout: family
 ---
 
