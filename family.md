@@ -16,8 +16,8 @@ Students text: "NHCC Students is committed to making Jesus followers of 6th-12th
 Students image: "/uploads/NHCC%20STUDENTS%20COMING%20UP....png"
 Students ask a question: jeff@northhillschristian.church
 Block text: 'All volunteers working with our children and students must have a current
-  background check on file. Click here for more information. '
-block link: "/background-checks"
+  background check on file. Click [here](https://www.ministryopportunities.org/Application.aspx?oid=64157)
+  for more information. '
 layout: family
 ---
 
