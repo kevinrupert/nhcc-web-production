@@ -1,7 +1,9 @@
 ---
 title: Background Checks
 date: 2020-02-20 18:20:00 Z
-sign up: 
+image: "/uploads/symbol-raspberry%20KIDS.jpg"
 ---
 
-Click the below link to have your Volunteer Background Check completed. 
+All Children's volunteers at NHCC must have a background check completed. 
+
+Click [HERE](https://www.ministryopportunities.org/Application.aspx?oid=64157) to have your Volunteer Background Check completed. 
