@@ -17,7 +17,7 @@ Students image: "/uploads/NHCC%20STUDENTS%20COMING%20UP....png"
 Students ask a question: jeff@northhillschristian.church
 Safety text: 'All volunteers working with our children and students must have a current
   background check on file.  Click [HERE](https://www.ministryopportunities.org/Application.aspx?oid=64157)
-  to have your background check completed.  '
+  to have your background check completed. '
 layout: family
 ---
 
