@@ -2,8 +2,8 @@
 title: New Message Series
 date: 2019-08-11 02:41:00 Z
 position: 0
-image: "/uploads/ain't%20in%20there%20bundle.004-b0ac76.jpeg"
-event date: 2020-02-16 10:00:00 Z
+image: "/uploads/Boundless%20new%20series.jpeg"
+event date: 2020-03-22 10:00:00 Z
 ---
 
-Maybe your Grandma said it, maybe it was advice that made you feel better, or maybe you’ve just heard it so much, you assumed it was true. We hear and say things that seem like they’re in the Bible…but are they? Join us, beginning Sunday, February 16th, as we unpack four commonly quoted statements and find out what the Bible really says.
+Responsible. Efficient. Cost-Effective. Low-risk. Prudent. Guaranteed Returns… in our economic understanding of time, resources and dollars, these are valued descriptors. But when we look at God's economy of love and grace, what adjectives do we find illustrated in the scriptures? Join us for this series beginning March 22, as we explore the extravagant, overwhelming, boundless love of God.
