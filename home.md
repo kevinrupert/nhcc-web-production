@@ -8,7 +8,7 @@ Block 1 text: Responsible. Efficient. Cost-Effective. Low-risk. Prudent. Guarant
   valued descriptors. But when we look at God's economy of love and grace, what adjectives
   do we find illustrated in the scriptures? Join us for this series beginning March
   22nd, as we explore the extravagant, overwhelming, boundless love of God.
-Block 1 image: "/uploads/Boundless%20new%20series.jpeg"
+Block 1 image: "/uploads/Boundless4.3%20alt.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
