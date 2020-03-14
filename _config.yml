@@ -65,7 +65,7 @@ description: North Hills Christian Church is a community making followers of Jes
   of McCandless, Hampton, Ross and Shaler Townships.
 baseurl: 
 url: http://yourdomain.com
-twitter_username: jekyllrb
+twitter_username: 
 github_username: jekyll
 markdown: kramdown
 service_time: 10am
