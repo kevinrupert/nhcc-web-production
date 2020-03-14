@@ -66,6 +66,6 @@ description: North Hills Christian Church is a community making followers of Jes
 baseurl: 
 url: http://yourdomain.com
 twitter_username: 
-github_username: jekyll
+github_username: 
 markdown: kramdown
 service_time: 10am
