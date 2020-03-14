@@ -1,6 +1,7 @@
 ---
 title: CIY Fundraising Banquet
 date: 2020-01-22 05:41:00 Z
+published: false
 image: "/uploads/CIY%20LUAU%20Banquet-4.pdf"
 event date: 2020-03-15 18:00:00 Z
 ---

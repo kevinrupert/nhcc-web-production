@@ -5,7 +5,6 @@ image: "/uploads/students-logo-raspberry.png"
 event date: 2020-03-15 18:00:00 Z
 ---
 
-* Sunday, March 15th     - 6-8pm CIY Student Fundraising Banquet
 * Sunday, March 22nd     - 6:30-8pm NHCC Student Nights
 * Sunday, March 29th     - 6:30-8pm NHCC Student Nights
 * Sunday, April 5th      - 6:30-8pm NHCC Student Nights
