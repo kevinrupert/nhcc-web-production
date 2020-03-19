@@ -6,7 +6,7 @@ Block 1 title: Current Message Series
 Block 1 text: |-
   Responsible. Efficient. Cost-Effective. Low-risk. Prudent. Guaranteed Returns… in our economic understanding of time, resources and dollars, these are valued descriptors. But when we look at God's economy of love and grace, what adjectives do we find illustrated in the scriptures? Join us online for this series, as we explore the extravagant, overwhelming, boundless love of God.
 
-  For information on our response to COVID-19, please click [HERE](https://northhillschristian.church/about).
+  For information on our response to COVID-19, please check out ABOUT page.
 Block 1 image: "/uploads/Boundless4.3%20alt.jpeg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
