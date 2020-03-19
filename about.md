@@ -35,7 +35,7 @@ sundays text: "NHCC Family & Friends -- wow. SO much continues to change and evo
   simply come by at your leisure and take enough sets for your family to use for that
   week. The station will be setup in such a way that the pre-wrapped sets will not
   be touched by mass-handling.\n\nFor offering, please be encouraged to use Tithely,
-  our mobile platform. You can access Tithely from Giving Section on our Community
+  our mobile platform. You can access Tithely from the Giving Section on our Community
   page. If you are unsure how to do this or how it works, contact me and I will make
   sure someone walks you through that process. Alternatively, you can always mail
   checks to the church office at 778 Thompson Run Rd, Pittsburgh PA 15237, OR, you
@@ -58,7 +58,8 @@ sundays text: "NHCC Family & Friends -- wow. SO much continues to change and evo
   time.\n\nInconveniencing ourselves in order to love, protect and care for the most
   vulnerable among us is paramount to living out the Gospel. Please make use of our
   email at prayer@northhillschristian.church to share requests and needs, and we will
-  continue to stay connected and keep everyone informed as we all navigate this together.`"
+  continue to stay connected and keep everyone informed as we all navigate this together.\n\nEthan
+  Harrington\n(Lead Pastor)"
 history image: "/uploads/about-hero-4.jpg"
 history text: 'NHCC was started in 1960 with just a few members and over the next
   six decades has grown into the church it is today. This is what NHCC believes:'
