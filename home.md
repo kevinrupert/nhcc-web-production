@@ -2,14 +2,9 @@
 title: North Hills Christian Church
 permalink: "/"
 position: 0
-Block 1 title: FOR OUR COVID-19 RESPONSE, SEE OUR ABOUT PAGE
-Block 1 text: "CURRENT MESSAGE SERIES - \n\n\nResponsible. Efficient. Cost-Effective.
-  Low-risk. Prudent. Guaranteed Returns… in our economic understanding of time, resources
-  and dollars, these are valued descriptors. But when we look at God's economy of
-  love and grace, what adjectives do we find illustrated in the scriptures? Join us
-  online for this series, as we explore the extravagant, overwhelming, boundless love
-  of God."
-Block 1 image: "/uploads/Boundless4.3%20alt.jpeg"
+Block 1 title: 
+Block 1 text: FOR INFORMATION ABOUT OUR COVID-19 RESPONSE, PLEASE SEE OUR ABOUT PAGE.
+Block 1 image: "/uploads/placeholder.svg"
 Block 1 link title: Learn More
 Block 1 link: "/about"
 Block 2 title: Community
