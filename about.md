@@ -7,9 +7,9 @@ sundays text: "### NHCC Family & Friends -- wow. SO much continues to change and
   as we navigate this time together.As we've previously communicated, leadership has
   continued to be in touch with medical professionals in our community, and is seeking
   to comply with all public health guidance and protocols. Consistent with this information, **NHCC
-  is suspending all face-to-face group gatherings until further notice.**\n\nAs we've
-  said from the beginning, we firmly believe this response we're adopting is what
-  Christ-driven loving and serving looks like for us right now. This is not about
+  is suspending all face-to-face group gatherings until further notice.**\n\n### As
+  we've said from the beginning, we firmly believe this response we're adopting is
+  what Christ-driven loving and serving looks like for us right now. This is not about
   fear, nor about personal self-preservation; this is simply how we best protect,
   care for and love our own: our community and even our nation, as well as the weakest
   and most vulnerable among us. If you are someone particularly vulnerable during
@@ -20,7 +20,7 @@ sundays text: "### NHCC Family & Friends -- wow. SO much continues to change and
   individuals in the medical field that have resources to share, and have even offered
   to reach out and shed some light on the subject for you. Reach out to me and I will
   connect you with what they can offer.  Here is how all of this impacts us as a church
-  and what our \"new normal\" will look like for now:\n\nEach Sunday morning  you
+  and what our \"new normal\" will look like for now:\n\n### Each Sunday morning  you
   will all receive an email with a video link to our service. (If you don't use email,
   but have a text-capable phone, you will receive a text link to the video). We will
   also aim to make this video available on our website. The video will include worship,
@@ -28,13 +28,13 @@ sundays text: "### NHCC Family & Friends -- wow. SO much continues to change and
   together. If the \"online church\" format is a new or cumbersome concept for you,
   and you could use some help, let us know. We have people that would love to help
   walk you through it so that you can engage with us...we don't want anyone to be
-  left out!\n\nFor communion, you have 2 options: you can either use bread/crackers
+  left out!\n\n### For communion, you have 2 options: you can either use bread/crackers
   and juice you may have at home, OR, you may come to the church during the week and
   pickup the communion elements. We have pre-sealed fully contained communion packets
   that are setup at a small station under the roof of our main church entrance...
   simply come by at your leisure and take enough sets for your family to use for that
   week. The station will be setup in such a way that the pre-wrapped sets will not
-  be touched by mass-handling.\n\nFor offering, please be encouraged to use Tithely,
+  be touched by mass-handling.\n\n### For offering, please be encouraged to use Tithely,
   our mobile platform. If you are unsure how to do this or how it works, contact me
   and I will make sure someone walks you through that process. Alternatively, you
   can always mail checks to the church office at 778 Thompson Run Rd, Pittsburgh PA
@@ -48,13 +48,13 @@ sundays text: "### NHCC Family & Friends -- wow. SO much continues to change and
   Their joy informed their generosity. Nehemiah 8:10 says, \"Do not grieve, for the
   joy of the Lord is your strength.” We have the opportunity to find that same strength,
   through that same source of joy, to propel us to love, serve and give generously
-  in this unique time.\n \nFamilies and kids--Katie will regularly be interacting
+  in this unique time.\n \n### Families and kids--Katie will regularly be interacting
   with you and getting materials into your hands, and Jeff-- well, Jeff and our teens
   are already naturally living and interacting in the online world quite effectively--but
   Jeff will be looking for additional resources to connect with our Jr/Sr High students.
   Our hope is to equip everyone to engage with us at home as best as we can, while
   continuing to look for ways to love each other and love our communities well during
-  this extraordinary time.\n\nInconveniencing ourselves in order to love, protect
+  this extraordinary time.\n\n### Inconveniencing ourselves in order to love, protect
   and care for the most vulnerable among us is paramount to living out the Gospel.
   Please make use of our email at prayer@northhillschristian.chuch to share requests
   and needs, and we will continue to stay connected and keep everyone informed as
