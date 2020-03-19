@@ -3,14 +3,62 @@ title: North Hills Christian Church | About
 permalink: "/about"
 position: 1
 sundays image: "/uploads/NHCC%20Family%20&%20Friends%20--%20wow.%20SO%20much%20continues%20to%20change%20and%20evolve%20as%20we%20navigate%20this%20time%20together.As%20we've%20previously%20communicated,%20leadership%20has%20continued%20to%20be%20in%20touch%20with%20medical%20professionals%20in%20our%20commu-3.png"
-sundays text: |-
-  Sundays are the core of our connecting, growing and serving. NHCC believes being a Jesus follower means meeting and learning together.
-
-  On Sundays our entire church family gathers at 10am to worship through song; learn from the teachings of the Bible; share in communion; give to the church and those in need through our offering; and serve wherever we might be needed.
-
-  Sundays also provide an opportunity for our Kids and Students to learn and serve. Our dedicated staff and volunteers have tailored a worship experience that is engaging and safe for the whole family.
-
-  You'll find us connecting each week at the intersection of Ross, McCandless, Shaler and Hampton Townships in Pittsburgh's North Hills - see you on Sunday!
+sundays text: "NHCC Family & Friends -- wow. SO much continues to change and evolve
+  as we navigate this time together.As we've previously communicated, leadership has
+  continued to be in touch with medical professionals in our community, and is seeking
+  to comply with all public health guidance and protocols. Consistent with this information, **NHCC
+  is suspending all face-to-face group gatherings until further notice.**\n\nAs we've
+  said from the beginning, we firmly believe this response we're adopting is what
+  Christ-driven loving and serving looks like for us right now. This is not about
+  fear, nor about personal self-preservation; this is simply how we best protect,
+  care for and love our own: our community and even our nation, as well as the weakest
+  and most vulnerable among us. If you are someone particularly vulnerable during
+  this time and could use some help (or know someone in our midst who does), please
+  reach out to staff or elders and let us know, so that we can connect resources with
+  needs. If you are reading this and don't yet fully understand the gravity of this
+  situation, or still believe responses like ours are an overreaction, there are Christ-following
+  individuals in the medical field that have resources to share, and have even offered
+  to reach out and shed some light on the subject for you. Reach out to me and I will
+  connect you with what they can offer.  Here is how all of this impacts us as a church
+  and what our \"new normal\" will look like for now:\n\nEach ### Sunday morning  you
+  will all receive an email with a video link to our service. (If you don't use email,
+  but have a text-capable phone, you will receive a text link to the video). We will
+  also aim to make this video available on our website. The video will include worship,
+  message and communion, all of which each of us can engage with in our own homes
+  together. If the \"online church\" format is a new or cumbersome concept for you,
+  and you could use some help, let us know. We have people that would love to help
+  walk you through it so that you can engage with us...we don't want anyone to be
+  left out!\n\nFor ### communion, you have 2 options: you can either use bread/crackers
+  and juice you may have at home, OR, you may come to the church during the week and
+  pickup the communion elements. We have pre-sealed fully contained communion packets
+  that are setup at a small station under the roof of our main church entrance...
+  simply come by at your leisure and take enough sets for your family to use for that
+  week. The station will be setup in such a way that the pre-wrapped sets will not
+  be touched by mass-handling.\n\nFor ### offering, please be encouraged to use Tithely,
+  our mobile platform. If you are unsure how to do this or how it works, contact me
+  and I will make sure someone walks you through that process. Alternatively, you
+  can always mail checks to the church office at 778 Thompson Run Rd, Pittsburgh PA
+  15237, OR, you can simply come by the church during daylight hours and drop it off.
+  The lower door will be open, and a locked slotted donation box will be right inside,
+  along with some giving envelopes and hand sanitizer. In times such as ours, please
+  do not underestimate the importance of loving and serving through giving financially.
+  Paul, talking about Macedonian churches, writes \"In the midst of a very severe
+  trial, their overflowing joy and their extreme poverty welled up in rich generosity...they
+  gave as much as they were able, and even beyond their ability\" (2 Corinthians 8:2-3).
+  Their joy informed their generosity. Nehemiah 8:10 says, \"Do not grieve, for the
+  joy of the Lord is your strength.” We have the opportunity to find that same strength,
+  through that same source of joy, to propel us to love, serve and give generously
+  in this unique time.\n \n### Families and kids--Katie will regularly be interacting
+  with you and getting materials into your hands, and Jeff-- well, Jeff and our teens
+  are already naturally living and interacting in the online world quite effectively--but
+  Jeff will be looking for additional resources to connect with our Jr/Sr High students.
+  Our hope is to equip everyone to engage with us at home as best as we can, while
+  continuing to look for ways to love each other and love our communities well during
+  this extraordinary time.\n\nInconveniencing ourselves in order to love, protect
+  and care for the most vulnerable among us is paramount to living out the Gospel.
+  Please make use of our email at prayer@northhillschristian.chuch to share requests
+  and needs, and we will continue to stay connected and keep everyone informed as
+  we all navigate this together."
 history image: "/uploads/about-hero-4.jpg"
 history text: 'NHCC was started in 1960 with just a few members and over the next
   six decades has grown into the church it is today. This is what NHCC believes:'
