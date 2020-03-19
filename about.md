@@ -2,6 +2,7 @@
 title: North Hills Christian Church | About
 permalink: "/about"
 position: 1
+Covid-19 Update image: "/uploads/Ongoing%20Coronavirus%20Info.pdf"
 sundays image: "/uploads/about-hero-3.jpg"
 sundays text: |-
   Sundays are the core of our connecting, growing and serving. NHCC believes being a Jesus follower means meeting and learning together.
