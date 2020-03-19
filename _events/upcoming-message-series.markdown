@@ -1,6 +1,7 @@
 ---
 title: New Message Series
 date: 2019-08-11 02:41:00 Z
+published: false
 position: 0
 image: "/uploads/Boundless%20new%20series.jpeg"
 event date: 2020-03-22 10:00:00 Z
