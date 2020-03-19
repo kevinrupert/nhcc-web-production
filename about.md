@@ -35,30 +35,30 @@ sundays text: "NHCC Family & Friends -- wow. SO much continues to change and evo
   simply come by at your leisure and take enough sets for your family to use for that
   week. The station will be setup in such a way that the pre-wrapped sets will not
   be touched by mass-handling.\n\nFor offering, please be encouraged to use Tithely,
-  our mobile platform. If you are unsure how to do this or how it works, contact me
-  and I will make sure someone walks you through that process. Alternatively, you
-  can always mail checks to the church office at 778 Thompson Run Rd, Pittsburgh PA
-  15237, OR, you can simply come by the church during daylight hours and drop it off.
-  The lower door will be open, and a locked slotted donation box will be right inside,
-  along with some giving envelopes and hand sanitizer. In times such as ours, please
-  do not underestimate the importance of loving and serving through giving financially.
-  Paul, talking about Macedonian churches, writes \"In the midst of a very severe
-  trial, their overflowing joy and their extreme poverty welled up in rich generosity...they
-  gave as much as they were able, and even beyond their ability\" (2 Corinthians 8:2-3).
-  Their joy informed their generosity. Nehemiah 8:10 says, \"Do not grieve, for the
-  joy of the Lord is your strength.” We have the opportunity to find that same strength,
-  through that same source of joy, to propel us to love, serve and give generously
-  in this unique time.\n \nFamilies and kids--Katie will regularly be interacting
-  with you and getting materials into your hands, and Jeff-- well, Jeff and our teens
-  are already naturally living and interacting in the online world quite effectively--but
-  Jeff will be looking for additional resources to connect with our Jr/Sr High students.
-  Our hope is to equip everyone to engage with us at home as best as we can, while
-  continuing to look for ways to love each other and love our communities well during
-  this extraordinary time.\n\nInconveniencing ourselves in order to love, protect
-  and care for the most vulnerable among us is paramount to living out the Gospel.
-  Please make use of our email at prayer@northhillschristian.chuch to share requests
-  and needs, and we will continue to stay connected and keep everyone informed as
-  we all navigate this together.`"
+  our mobile platform. You can access Tithely from Giving Section on our Community
+  page. If you are unsure how to do this or how it works, contact me and I will make
+  sure someone walks you through that process. Alternatively, you can always mail
+  checks to the church office at 778 Thompson Run Rd, Pittsburgh PA 15237, OR, you
+  can simply come by the church during daylight hours and drop it off. The lower door
+  will be open, and a locked slotted donation box will be right inside, along with
+  some giving envelopes and hand sanitizer. In times such as ours, please do not underestimate
+  the importance of loving and serving through giving financially. Paul, talking about
+  Macedonian churches, writes \"In the midst of a very severe trial, their overflowing
+  joy and their extreme poverty welled up in rich generosity...they gave as much as
+  they were able, and even beyond their ability\" (2 Corinthians 8:2-3). Their joy informed
+  their generosity. Nehemiah 8:10 says, \"Do not grieve, for the joy of the Lord is
+  your strength.” We have the opportunity to find that same strength, through that
+  same source of joy, to propel us to love, serve and give generously in this unique
+  time.\n \nFamilies and kids--Katie will regularly be interacting with you and getting
+  materials into your hands, and Jeff-- well, Jeff and our teens are already naturally
+  living and interacting in the online world quite effectively--but Jeff will be looking
+  for additional resources to connect with our Jr/Sr High students. Our hope is to
+  equip everyone to engage with us at home as best as we can, while continuing to
+  look for ways to love each other and love our communities well during this extraordinary
+  time.\n\nInconveniencing ourselves in order to love, protect and care for the most
+  vulnerable among us is paramount to living out the Gospel. Please make use of our
+  email at prayer@northhillschristian.church to share requests and needs, and we will
+  continue to stay connected and keep everyone informed as we all navigate this together.`"
 history image: "/uploads/about-hero-4.jpg"
 history text: 'NHCC was started in 1960 with just a few members and over the next
   six decades has grown into the church it is today. This is what NHCC believes:'
