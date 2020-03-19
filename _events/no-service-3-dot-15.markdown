@@ -5,7 +5,7 @@ image: "/uploads/IMPORTANT.png"
 event date: 2020-03-22 10:00:00 Z
 ---
 
-### We are living in an unprecedented time nationally and globally, with constant streams of information and reactions regarding the COVID-19 Coronavirus. The news cycle pace this week has been a blur, with declarations and cancellations happening by the minute. With the announcements today of our area schools shutting down and a presidential declaration of National Emergency, the leadership has made the difficult decision to now CANCEL services this Sunday, less than 12 hours after having to make the call to cancel Sunday Night's CIY Youth Banquet.
+### We are living in an unprecedented time nationally and globally, with constant streams of information and reactions regarding the COVID-19 Coronavirus. The news cycle pace this week has been a blur, with declarations and cancellations happening by the minute. With the recent announcements and a presidential declaration of National Emergency, the leadership has made the difficult decision to now CANCEL services until further notice.
 
 On Sunday, March 8th, we closed our "Ain't in There" message series by talking about how God most certainly DOES give us more than we can handle, “that we might not rely on ourselves but on God” (2 Corinthians 1:9). In EVERY instance of crisis through history, the church has had the opportunity to shape community hope and be a beacon of Jesus’s love and compassion--that is what we desire, and we will continue to aggressively look for ways to love one another and love our communities amidst these dangers and fears...all the while recognizing God's omnipotent love, grace, power and compassion that is there to heal, teach, encourage, comfort and direct at every turn.
  
