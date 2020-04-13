@@ -5,7 +5,7 @@ position: 0
 Block 1 title: 
 Block 1 text: FOR INFORMATION ABOUT OUR COVID-19 RESPONSE, PLEASE SEE OUR ABOUT PAGE.
 Block 1 image: "/uploads/placeholder.svg"
-Block 1 link title: Learn More
+Block 1 link title: Learn Mo
 Block 1 link: "/about"
 Block 2 title: Community
 Block 2 text: Following Jesus includes serving His community both locally and globally.
