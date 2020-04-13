@@ -1,6 +1,7 @@
 ---
 title: NO SERVICE 3.22
 date: 2020-03-13 10:59:00 Z
+published: false
 image: "/uploads/IMPORTANT.png"
 event date: 2020-03-22 10:00:00 Z
 ---

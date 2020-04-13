@@ -1,6 +1,7 @@
 ---
 title: A Night To Remember
 date: 2020-01-22 06:18:00 Z
+published: false
 image: "/uploads/ANTR2020.png"
 event date: 2020-05-17 17:00:00 Z
 sign up: https://discoverypgh.com/anighttoremember
